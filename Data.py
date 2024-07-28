@@ -11,15 +11,15 @@ class data():
         self.end_date = self.start_date -timedelta(days=3)
         self.API_KEY = "cONqvzinqAUbQ0TSqI7MAYOo3hdsf5d8"
 
-    def fetch_json_data(self,ticker):
+    def get(self,ticker):
         url = f"{self.APIurl}{ticker}/range/1/day/{self.end_date}/{self.start_date}?adjusted=true&sort=asc&limit=50000000&apiKey={self.API_KEY}"
         self.response = requests.get(url)
         return self.response.json()
 
-    def load_json_data(self):
+    def load(self):
         self.stonks_json = self.fetch_json_data(self.Stonks)
         return self.stonks_json
 
-    def save_json_data(self):
+    def save(self):
         with open(f"stocks_dataPrices{self.start_date}&{self.end_date}.json", "w") as f:
             json.dump(self.stonks_json, f, indent = 4)
