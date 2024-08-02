@@ -25,4 +25,5 @@ class data():
             with open(f"./StockData/{ticker}.json", 'w') as file:
                 json.dump(response, file, indent=4)
             if i % 5 == 0:
+                print(i, " done")
                 time.sleep(65)

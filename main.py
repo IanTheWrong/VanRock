@@ -1,5 +1,3 @@
-from data import data
-from ichimoku import ichimoku
 import shelve
 import os
 import time
@@ -14,19 +12,21 @@ with open(filepath, 'r') as file:
     content = file.read()
     stocks = content.splitlines()
 for filename in os.listdir("./"):
-    if filename == "variables.dir":
+    if filename == "BalanceSheet.dir":
         exists = True
         break
 if not exists:
-    vars = shelve.open('variables')
+    vars = shelve.open('BalanceSheet')
     vars['Balance'] = 500000
     for ticker in stocks:
         vars[f"{ticker}position"] = 1
         vars[f"{ticker}top"] = -1
         vars[f"{ticker}bottom"] = -1
         vars[f"{ticker}amt"] = 0
-
+from data import data
+from ichimoku import ichimoku
 while True:
+    #data.get(100)
     ichimoku.calculate()
     time.sleep(65)
 
