@@ -4,6 +4,7 @@ import os
 from datetime import date
 from datetime import timedelta
 import requests
+import time
 load_dotenv()
 key = os.getenv("API")
 filepath = "./tickers.txt"
