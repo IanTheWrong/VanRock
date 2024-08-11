@@ -42,7 +42,7 @@ class ichimoku():
                     tempHigh = data['results'][i]['h']
                 if(tempLow > data['results'][i]['l']):
                     tempLow = data['results'][i]['l']
-            SenkouB = (tempHigh/tempLow)/2
+            SenkouB = (tempHigh+tempLow)/2
             ChikouSan = data['results'][0]['c']
             tempLow = 0
             tempHigh = 0
@@ -77,7 +77,7 @@ class ichimoku():
                 vars[f'{ticker}bottom'] = -1
                 vars[f"{ticker}amt"] = 0
             #top sell sell stop
-            elif(vars[f'{ticker}position'] == 0 and data['results'][0]['c'] < vars[f'{ticker}top'] and vars[f'{ticker}top'] != -1):
+            if(vars[f'{ticker}position'] == 0 and data['results'][0]['c'] < vars[f'{ticker}top'] and vars[f'{ticker}top'] != -1):
                 vars['Balance'] += data['results'][0]['c'] * vars[f"{ticker}amt"] + vars[f"{ticker}amt"]
                 vars[f'{ticker}position'] = 1
                 vars[f'{ticker}top'] = -1

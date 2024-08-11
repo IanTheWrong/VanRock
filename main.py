@@ -25,8 +25,5 @@ if not exists:
         vars[f"{ticker}amt"] = 0
 from data import data
 from ichimoku import ichimoku
-while True:
-    #data.get(100)
-    ichimoku.calculate()
-    time.sleep(65)
+ichimoku.calculate()
 
