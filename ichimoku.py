@@ -3,7 +3,6 @@ import os
 import json
 filepath = "./tickers.txt"
 stocks = []
-vars = shelve.open('BalanceSheet')
 with open(filepath, 'r') as file:
     content = file.read()
     stocks = content.splitlines()
@@ -24,7 +23,7 @@ class ichimoku():
                 data = json.load(file)
 
             #TenkenSen
-            tempLow = data['results'][0]['l']
+            tempLow = data["results"][0]['l']
             for i in range(0,9):
                 if(tempHigh < data['results'][i]['h']):
                     tempHigh = data['results'][i]['h']
@@ -91,20 +90,18 @@ class ichimoku():
                 bottom = pastSenkouB
                 top = pastSenkouA
             if(TenkenSen > KijunSen and SenkouA > SenkouB and ChikouSen > pastSenkouA and ChikouSen > pastSenkouB):
-                print("long at", data['results'][0]['c'], f"on {ticker}")
-                with open("results.txt", 'a') as file:
+                with open("final.txt", 'a') as file:
                     if(ChikouSen * .95 <= top):
-                        file.write(f"----------LONG {ticker} LOSS @ {bottom} LIMIT @ {round((ChikouSen-bottom)*2 + ChikouSen, 2)}\n")
+                        file.write(f"------------------LONG {ticker} LOSS @ {round(bottom,2)} LIMIT @ {round((ChikouSen-bottom)*2 + ChikouSen, 2)}\n")
                     else:
-                        file.write(f"LONG {ticker} LOSS @ {bottom} LIMIT @ {round((ChikouSen-bottom)*2 + ChikouSen, 2)}\n")
+                        file.write(f"LONG {ticker} LOSS @ {round(bottom,2)} LIMIT @ {round((ChikouSen-bottom)*2 + ChikouSen, 2)}\n")
             #sell
             elif(TenkenSen < KijunSen and SenkouA < SenkouB and ChikouSen < pastSenkouA and ChikouSen < pastSenkouB):
-                with open("results.txt", 'a') as file:
+                with open("final.txt", 'a') as file:
                     if(ChikouSen * 1.05 >= bottom):
-                        file.write(f"----------SHORT {ticker} LOSS @ {top} LIMIT @ {round((ChikouSen-top)*2 + ChikouSen, 2)}\n")
+                        file.write(f"-------------------SHORT {ticker} LOSS @ {round(top,2)} LIMIT @ {round((ChikouSen-top)*2 + ChikouSen, 2)}\n")
                     else:
-                        file.write(f"SHORT {ticker} LOSS @ {top} LIMIT @ {round((ChikouSen-top)*2 + ChikouSen, 2)}\n")
-            
+                        file.write(f"SHORT {ticker} LOSS @ {round(top,2)} LIMIT @ {round((ChikouSen-top)*2 + ChikouSen, 2)}\n")
             
         
 
