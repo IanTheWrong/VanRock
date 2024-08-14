@@ -1,9 +1,19 @@
 {
     "ticker": "KO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 10468397.0,
+            "vw": 68.1707,
+            "o": 68.45,
+            "c": 68.17,
+            "h": 68.54,
+            "l": 67.83,
+            "t": 1723435200000,
+            "n": 143130
+        },
         {
             "v": 10878884.0,
             "vw": 68.616,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3a90a6979f77b19ffddeeb17312891e0",
-    "count": 500
+    "request_id": "1d16ada788ee51c86d7645f417ba6275",
+    "count": 501
 }

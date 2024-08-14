@@ -1,9 +1,19 @@
 {
     "ticker": "FI",
-    "queryCount": 296,
-    "resultsCount": 296,
+    "queryCount": 297,
+    "resultsCount": 297,
     "adjusted": true,
     "results": [
+        {
+            "v": 2139124.0,
+            "vw": 161.1755,
+            "o": 162,
+            "c": 161.1,
+            "h": 162.92,
+            "l": 160.49,
+            "t": 1723435200000,
+            "n": 32032
+        },
         {
             "v": 1540994.0,
             "vw": 161.1599,
@@ -2966,6 +2976,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f5856ab0d939754874660ca13b1f0256",
-    "count": 296
+    "request_id": "1a87c7c85cf24fc03b55b24c861b742e",
+    "count": 297
 }

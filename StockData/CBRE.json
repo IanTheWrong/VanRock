@@ -1,9 +1,19 @@
 {
     "ticker": "CBRE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 930862,
+            "vw": 107.9479,
+            "o": 108.89,
+            "c": 107.87,
+            "h": 109.04,
+            "l": 107.54,
+            "t": 1723435200000,
+            "n": 15738
+        },
         {
             "v": 832496,
             "vw": 109.251,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "cb784bcc66f781c13298b1adc0e7cef1",
-    "count": 500
+    "request_id": "d0cc42794aa00aa6586f31b3f9f1c7a1",
+    "count": 501
 }

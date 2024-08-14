@@ -1,9 +1,19 @@
 {
     "ticker": "CTLT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 829288,
+            "vw": 59.704,
+            "o": 59.79,
+            "c": 59.68,
+            "h": 59.94,
+            "l": 59.64,
+            "t": 1723435200000,
+            "n": 10876
+        },
         {
             "v": 907968,
             "vw": 59.6952,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "12133ed2852ed2c3809b2cd8ae078db6",
-    "count": 500
+    "request_id": "74402a9afeeffd86e43d94f74066b175",
+    "count": 501
 }

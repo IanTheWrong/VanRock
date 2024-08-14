@@ -1,9 +1,19 @@
 {
     "ticker": "GD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1040052.0,
+            "vw": 291.7553,
+            "o": 294,
+            "c": 291.2,
+            "h": 294.59,
+            "l": 290.655,
+            "t": 1723435200000,
+            "n": 23079
+        },
         {
             "v": 1014126.0,
             "vw": 293.2828,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c1bbc2f27c38a352fe31df1655a69c6a",
-    "count": 500
+    "request_id": "ec4f5038baa29963eb28edd57418dd08",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CPT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1067599.0,
+            "vw": 119.8958,
+            "o": 120.67,
+            "c": 119.54,
+            "h": 120.885,
+            "l": 119.18,
+            "t": 1723435200000,
+            "n": 17613
+        },
         {
             "v": 443443,
             "vw": 118.9855,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3540a8260e7703164003cc9f1d2739dd",
-    "count": 500
+    "request_id": "3353b9be482ff58b70b83dc1047349e1",
+    "count": 501
 }

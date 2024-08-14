@@ -1,9 +1,19 @@
 {
     "ticker": "RTX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8547332.0,
+            "vw": 116.6176,
+            "o": 116.86,
+            "c": 116.6,
+            "h": 117.44,
+            "l": 115.76,
+            "t": 1723435200000,
+            "n": 76990
+        },
         {
             "v": 5480524.0,
             "vw": 115.7363,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "de825633f6d9be2b51fdc501bb5c6ed2",
-    "count": 500
+    "request_id": "99de41f5e88f5839b6f99d6172c0fcf4",
+    "count": 501
 }

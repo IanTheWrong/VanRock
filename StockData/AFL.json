@@ -1,9 +1,19 @@
 {
     "ticker": "AFL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1414616.0,
+            "vw": 101.2726,
+            "o": 101.53,
+            "c": 101.19,
+            "h": 101.7999,
+            "l": 101,
+            "t": 1723435200000,
+            "n": 25116
+        },
         {
             "v": 1542212.0,
             "vw": 101.1114,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4ab1c5534d34e25526f55dd41e559f01",
-    "count": 500
+    "request_id": "e6a8934ce013c813029183ae9d2b107f",
+    "count": 501
 }

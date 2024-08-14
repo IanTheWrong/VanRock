@@ -1,9 +1,19 @@
 {
     "ticker": "QRVO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 959554,
+            "vw": 107.4588,
+            "o": 106.72,
+            "c": 107.28,
+            "h": 109.02,
+            "l": 106.225,
+            "t": 1723435200000,
+            "n": 22667
+        },
         {
             "v": 848169,
             "vw": 106.208,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "594c71378e2d0753add9f43f456741d4",
-    "count": 500
+    "request_id": "22258c93693b18d7bfad234e9d9957ac",
+    "count": 501
 }

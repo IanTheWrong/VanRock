@@ -1,9 +1,19 @@
 {
     "ticker": "BDX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1198155.0,
+            "vw": 234.5866,
+            "o": 235.08,
+            "c": 234.13,
+            "h": 236.17,
+            "l": 233.805,
+            "t": 1723435200000,
+            "n": 18680
+        },
         {
             "v": 787230,
             "vw": 235.4181,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6e01637e1096f32c64a290a8eaf87910",
-    "count": 500
+    "request_id": "ed4adf6f0f534fdbce025a6da85f43eb",
+    "count": 501
 }

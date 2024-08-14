@@ -1,9 +1,19 @@
 {
     "ticker": "SCHW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6803959.0,
+            "vw": 61.713,
+            "o": 62.69,
+            "c": 61.77,
+            "h": 62.78,
+            "l": 61.21,
+            "t": 1723435200000,
+            "n": 65710
+        },
         {
             "v": 4185142.0,
             "vw": 62.4492,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ae78b34edc7c89de7334839b87eaef8e",
-    "count": 500
+    "request_id": "42486a573ac198b73d84749e5314bce4",
+    "count": 501
 }

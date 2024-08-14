@@ -1,9 +1,19 @@
 {
     "ticker": "ITW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 785062,
+            "vw": 236.8244,
+            "o": 239.2,
+            "c": 236.62,
+            "h": 240,
+            "l": 236.35,
+            "t": 1723435200000,
+            "n": 17878
+        },
         {
             "v": 646544,
             "vw": 238.8935,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "24f88cdf1ace9657cb92611cc0ccd1dd",
-    "count": 500
+    "request_id": "f7eebe333a262c813f0a6181e6cbbebd",
+    "count": 501
 }

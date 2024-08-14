@@ -1,9 +1,19 @@
 {
     "ticker": "DAY",
-    "queryCount": 132,
-    "resultsCount": 132,
+    "queryCount": 133,
+    "resultsCount": 133,
     "adjusted": true,
     "results": [
+        {
+            "v": 1624505.0,
+            "vw": 51.2943,
+            "o": 53.13,
+            "c": 51.08,
+            "h": 53.18,
+            "l": 50.82,
+            "t": 1723435200000,
+            "n": 18179
+        },
         {
             "v": 1177748.0,
             "vw": 53.0255,
@@ -1326,6 +1336,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4f8b1643adaa862953ac7250b61f862c",
-    "count": 132
+    "request_id": "1259fc4c9827852301e502f580d93aab",
+    "count": 133
 }

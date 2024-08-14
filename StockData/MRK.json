@@ -1,9 +1,19 @@
 {
     "ticker": "MRK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6360010.0,
+            "vw": 113.6867,
+            "o": 114.71,
+            "c": 113.48,
+            "h": 114.71,
+            "l": 113.11,
+            "t": 1723435200000,
+            "n": 82459
+        },
         {
             "v": 5777731.0,
             "vw": 114.0377,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e758c09cd84b5e685c941ccd9158c899",
-    "count": 500
+    "request_id": "feab8195635b0a307c790ae41b56c8f4",
+    "count": 501
 }

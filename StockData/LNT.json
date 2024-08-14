@@ -1,9 +1,19 @@
 {
     "ticker": "LNT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 849493,
+            "vw": 55.8787,
+            "o": 55.98,
+            "c": 55.96,
+            "h": 56.26,
+            "l": 55.56,
+            "t": 1723435200000,
+            "n": 14511
+        },
         {
             "v": 1189717.0,
             "vw": 55.9191,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "150c33520c89d57887390df5a81da782",
-    "count": 500
+    "request_id": "7bbedac40a3bb517e1d3f2bd332329f6",
+    "count": 501
 }

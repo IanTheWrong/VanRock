@@ -1,9 +1,19 @@
 {
     "ticker": "LMT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 784938,
+            "vw": 555.5605,
+            "o": 551.07,
+            "c": 556.91,
+            "h": 557.56,
+            "l": 550.4,
+            "t": 1723435200000,
+            "n": 29419
+        },
         {
             "v": 809498,
             "vw": 551.3616,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "107f386482d47fd27d7adebdfa39c1d9",
-    "count": 500
+    "request_id": "a8c1f97183ce5c6191a0624a9911be03",
+    "count": 501
 }

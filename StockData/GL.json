@@ -1,9 +1,19 @@
 {
     "ticker": "GL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 674305,
+            "vw": 91.6435,
+            "o": 92.49,
+            "c": 91.5,
+            "h": 93.12,
+            "l": 91.26,
+            "t": 1723435200000,
+            "n": 12667
+        },
         {
             "v": 845588,
             "vw": 92.4791,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f38ce2d9d8499fe1497c5a2ba33e4ebc",
-    "count": 500
+    "request_id": "de94ebf75f7d2ee247439519eb7bcda5",
+    "count": 501
 }

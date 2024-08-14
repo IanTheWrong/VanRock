@@ -1,9 +1,19 @@
 {
     "ticker": "HUM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 473150,
+            "vw": 349.4719,
+            "o": 351.45,
+            "c": 348.29,
+            "h": 352.13,
+            "l": 348.14,
+            "t": 1723435200000,
+            "n": 15864
+        },
         {
             "v": 622334,
             "vw": 349.9713,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "55a3edadbc078e8b456e63b5653ef410",
-    "count": 500
+    "request_id": "27081f28dff172b7b95c5fb4e976b483",
+    "count": 501
 }

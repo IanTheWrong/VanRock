@@ -1,9 +1,19 @@
 {
     "ticker": "LYV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 941427,
+            "vw": 91.661,
+            "o": 92.22,
+            "c": 91.6,
+            "h": 92.315,
+            "l": 91.25,
+            "t": 1723435200000,
+            "n": 17574
+        },
         {
             "v": 1059929.0,
             "vw": 91.99,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "5b364cba99c860ec86e4936a3ef04c29",
-    "count": 500
+    "request_id": "df61b59b9b2da6cd923b54e3fc126981",
+    "count": 501
 }

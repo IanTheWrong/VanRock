@@ -1,9 +1,19 @@
 {
     "ticker": "PSX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1514323.0,
+            "vw": 136.0208,
+            "o": 136.41,
+            "c": 135.88,
+            "h": 137.58,
+            "l": 135.6,
+            "t": 1723435200000,
+            "n": 27109
+        },
         {
             "v": 2029854.0,
             "vw": 135.6341,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3b6ff72479684de5f9f6629b81fb53b4",
-    "count": 500
+    "request_id": "3601bc3c521164a5c0252e1a5290b5e1",
+    "count": 501
 }

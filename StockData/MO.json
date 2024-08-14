@@ -1,9 +1,19 @@
 {
     "ticker": "MO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5902982.0,
+            "vw": 50.3825,
+            "o": 50.44,
+            "c": 50.31,
+            "h": 50.7384,
+            "l": 50.15,
+            "t": 1723435200000,
+            "n": 50291
+        },
         {
             "v": 5376990.0,
             "vw": 50.4697,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c22a0b0baf316fc1e77fff3cb924a22d",
-    "count": 500
+    "request_id": "682d699e2d3a8673922b24b8ed953b3d",
+    "count": 501
 }

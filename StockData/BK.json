@@ -1,9 +1,19 @@
 {
     "ticker": "BK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3688273.0,
+            "vw": 63.556,
+            "o": 63.87,
+            "c": 63.27,
+            "h": 64.26,
+            "l": 63.12,
+            "t": 1723435200000,
+            "n": 33416
+        },
         {
             "v": 3422695.0,
             "vw": 63.6837,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "02121edc7b4d8a18aef1b136ef161c9d",
-    "count": 500
+    "request_id": "01d10c01a4eeea72c3fda1c5a4e77ba6",
+    "count": 501
 }

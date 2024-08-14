@@ -1,9 +1,19 @@
 {
     "ticker": "ISRG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1008543.0,
+            "vw": 463.7982,
+            "o": 464.76,
+            "c": 465.53,
+            "h": 466.815,
+            "l": 458.265,
+            "t": 1723435200000,
+            "n": 31131
+        },
         {
             "v": 1004536.0,
             "vw": 463.1012,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d5f120c17821069004509c828257a399",
-    "count": 500
+    "request_id": "b471d9680bf3cb064af3b70d7e50c1f1",
+    "count": 501
 }

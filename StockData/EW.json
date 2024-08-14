@@ -1,9 +1,19 @@
 {
     "ticker": "EW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4333105.0,
+            "vw": 65.2142,
+            "o": 64.74,
+            "c": 65.54,
+            "h": 65.56,
+            "l": 64.27,
+            "t": 1723435200000,
+            "n": 54327
+        },
         {
             "v": 5822752.0,
             "vw": 64.4031,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b53e49e083a4cf0e69d6d0f7ac5f3970",
-    "count": 500
+    "request_id": "d07b3ffa3901db944a23b6ffba96f818",
+    "count": 501
 }

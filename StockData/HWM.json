@@ -1,9 +1,19 @@
 {
     "ticker": "HWM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1921103.0,
+            "vw": 92.7915,
+            "o": 93.13,
+            "c": 92.83,
+            "h": 93.53,
+            "l": 92.205,
+            "t": 1723435200000,
+            "n": 30847
+        },
         {
             "v": 1936705.0,
             "vw": 92.5769,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b3c3530975e0646af91850c22695afce",
-    "count": 500
+    "request_id": "6a62a32914f375be95e70a17a28e5461",
+    "count": 501
 }

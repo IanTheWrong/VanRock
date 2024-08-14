@@ -1,9 +1,19 @@
 {
     "ticker": "CMG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 9756256.0,
+            "vw": 55.8906,
+            "o": 55.6,
+            "c": 55.87,
+            "h": 56.34,
+            "l": 55.08,
+            "t": 1723435200000,
+            "n": 113810
+        },
         {
             "v": 11401953.0,
             "vw": 55.5194,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "62ddd81b06fb132e9ac67acb37010880",
-    "count": 500
+    "request_id": "9c2cf961d09b9d558e0fe72af7e0669c",
+    "count": 501
 }

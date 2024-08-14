@@ -1,9 +1,19 @@
 {
     "ticker": "BX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3063831.0,
+            "vw": 129.4669,
+            "o": 131.03,
+            "c": 129.28,
+            "h": 132.24,
+            "l": 128.18,
+            "t": 1723435200000,
+            "n": 34212
+        },
         {
             "v": 1382600.0,
             "vw": 130.8578,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "853fa94dc3d9773f11dc68c63fce0ca1",
-    "count": 500
+    "request_id": "2cd690adc61aaa27fcc0c3d545588e49",
+    "count": 501
 }

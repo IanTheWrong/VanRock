@@ -1,9 +1,19 @@
 {
     "ticker": "DOC",
-    "queryCount": 499,
-    "resultsCount": 499,
+    "queryCount": 500,
+    "resultsCount": 500,
     "adjusted": true,
     "results": [
+        {
+            "v": 3352628.0,
+            "vw": 21.4513,
+            "o": 21.55,
+            "c": 21.52,
+            "h": 21.62,
+            "l": 21.32,
+            "t": 1723435200000,
+            "n": 23342
+        },
         {
             "v": 2577643.0,
             "vw": 21.5596,
@@ -4996,6 +5006,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0dce72d34c21adef76d80b614d702504",
-    "count": 499
+    "request_id": "a2543306b15b48575c0df99dfd859b6c",
+    "count": 500
 }

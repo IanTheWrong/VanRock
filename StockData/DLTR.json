@@ -1,9 +1,19 @@
 {
     "ticker": "DLTR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2129928.0,
+            "vw": 93.6321,
+            "o": 95.06,
+            "c": 93.9,
+            "h": 95.22,
+            "l": 92.28,
+            "t": 1723435200000,
+            "n": 35340
+        },
         {
             "v": 1670552.0,
             "vw": 95.0781,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "72e3288987e7af26d1522bcc2748c746",
-    "count": 500
+    "request_id": "e61f4a5555d787a51eeaf8e6cbef6c54",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ADSK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 742076,
+            "vw": 239.6566,
+            "o": 240.17,
+            "c": 239.57,
+            "h": 241.7477,
+            "l": 238.01,
+            "t": 1723435200000,
+            "n": 17866
+        },
         {
             "v": 856905,
             "vw": 240.1393,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "bbc171826fba4a938104b6cde70dc6b6",
-    "count": 500
+    "request_id": "71b3a89b12ebdd934bb8b2a69899ea82",
+    "count": 501
 }

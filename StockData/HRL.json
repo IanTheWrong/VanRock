@@ -1,9 +1,19 @@
 {
     "ticker": "HRL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1511722.0,
+            "vw": 31.4171,
+            "o": 31.98,
+            "c": 31.25,
+            "h": 32.09,
+            "l": 31.2,
+            "t": 1723435200000,
+            "n": 20831
+        },
         {
             "v": 1178559.0,
             "vw": 32.001,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1b98f43b8bae8c0f5e943870bb1fc713",
-    "count": 500
+    "request_id": "8bf76b265e2274394a70fc0b271281c3",
+    "count": 501
 }

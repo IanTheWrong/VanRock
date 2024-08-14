@@ -1,9 +1,19 @@
 {
     "ticker": "CMCSA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 11761488.0,
+            "vw": 38.6294,
+            "o": 39,
+            "c": 38.53,
+            "h": 39.1,
+            "l": 38.47,
+            "t": 1723435200000,
+            "n": 73345
+        },
         {
             "v": 13680116.0,
             "vw": 39.1051,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ed536289cb65cc731cee67bbc1c9c495",
-    "count": 500
+    "request_id": "9d64c6ab397f6cc8bc223a7cafd3c06c",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ADM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1972601.0,
+            "vw": 58.0406,
+            "o": 58.5,
+            "c": 58.07,
+            "h": 58.6,
+            "l": 57.72,
+            "t": 1723435200000,
+            "n": 30157
+        },
         {
             "v": 1611851.0,
             "vw": 58.2775,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "41a257b8413439c761225ef89b6bad1e",
-    "count": 500
+    "request_id": "6ba44af950148d2197a51f0be9f4b185",
+    "count": 501
 }

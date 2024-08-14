@@ -1,9 +1,19 @@
 {
     "ticker": "K",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3887952.0,
+            "vw": 74.3084,
+            "o": 74.13,
+            "c": 73.99,
+            "h": 75.48,
+            "l": 73.82,
+            "t": 1723435200000,
+            "n": 47982
+        },
         {
             "v": 3831492.0,
             "vw": 74.764,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "688929e3951bd5d42c8e936ccec7dfec",
-    "count": 500
+    "request_id": "b7c3624479692ba48267ebee988fe947",
+    "count": 501
 }

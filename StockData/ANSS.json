@@ -1,9 +1,19 @@
 {
     "ticker": "ANSS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 298655,
+            "vw": 312.5214,
+            "o": 310.73,
+            "c": 313.31,
+            "h": 313.68,
+            "l": 309.48,
+            "t": 1723435200000,
+            "n": 9203
+        },
         {
             "v": 364632,
             "vw": 310.9703,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "56b300162a10c83b778a0ca7d75476dd",
-    "count": 500
+    "request_id": "7f545cb133a271717ba8b2da12a299fd",
+    "count": 501
 }

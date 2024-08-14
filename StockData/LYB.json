@@ -1,9 +1,19 @@
 {
     "ticker": "LYB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 981163,
+            "vw": 95.9721,
+            "o": 97.2,
+            "c": 95.74,
+            "h": 97.33,
+            "l": 95.43,
+            "t": 1723435200000,
+            "n": 19451
+        },
         {
             "v": 1387257.0,
             "vw": 96.7173,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eb9c7508473d9d823a9eb125ff172494",
-    "count": 500
+    "request_id": "a5371fef85c856829bf56149b06611b4",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ENPH",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1696696.0,
+            "vw": 108.7743,
+            "o": 107.86,
+            "c": 109.11,
+            "h": 109.8099,
+            "l": 107.0901,
+            "t": 1723435200000,
+            "n": 34835
+        },
         {
             "v": 2381855.0,
             "vw": 107.0794,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eefd640927d350cfb2eed6e222c3cd43",
-    "count": 500
+    "request_id": "1a132abac4480fde8192c85fa6c69423",
+    "count": 501
 }

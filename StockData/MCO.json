@@ -1,9 +1,19 @@
 {
     "ticker": "MCO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 572641,
+            "vw": 462.2382,
+            "o": 464.8,
+            "c": 460.58,
+            "h": 465,
+            "l": 459.53,
+            "t": 1723435200000,
+            "n": 12234
+        },
         {
             "v": 506357,
             "vw": 463.2732,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d2db2fa108035d1211702033de184a01",
-    "count": 500
+    "request_id": "f452b8bc54c3bd0d5ef8fc8fa7b4f055",
+    "count": 501
 }

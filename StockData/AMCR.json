@@ -1,9 +1,19 @@
 {
     "ticker": "AMCR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7132749.0,
+            "vw": 10.5391,
+            "o": 10.57,
+            "c": 10.5,
+            "h": 10.62,
+            "l": 10.49,
+            "t": 1723435200000,
+            "n": 25423
+        },
         {
             "v": 8330752.0,
             "vw": 10.5503,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "af2a0371973f4478f9c179c48e6f76e2",
-    "count": 500
+    "request_id": "bc5cc6a3a9e302cba9b97cba6fdfb359",
+    "count": 501
 }

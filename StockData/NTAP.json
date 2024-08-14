@@ -1,9 +1,19 @@
 {
     "ticker": "NTAP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1127543.0,
+            "vw": 123.0548,
+            "o": 122.49,
+            "c": 122.93,
+            "h": 124.03,
+            "l": 122.385,
+            "t": 1723435200000,
+            "n": 24610
+        },
         {
             "v": 1265666.0,
             "vw": 121.7408,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "10dc11aca8b7351890d11dff590f3d34",
-    "count": 500
+    "request_id": "04ce47276a86273092d9f534cdd27e66",
+    "count": 501
 }

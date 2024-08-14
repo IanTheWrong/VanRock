@@ -1,9 +1,19 @@
 {
     "ticker": "CCL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 19084135.0,
+            "vw": 14.6267,
+            "o": 14.79,
+            "c": 14.6,
+            "h": 14.85,
+            "l": 14.49,
+            "t": 1723435200000,
+            "n": 75443
+        },
         {
             "v": 23610086.0,
             "vw": 14.7229,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "00020cd9fa1929d0d9fc2a9909e9726d",
-    "count": 500
+    "request_id": "3c2336fc59b269b5abbc31f46301436a",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CRWD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3717649.0,
+            "vw": 239.7249,
+            "o": 242,
+            "c": 239.34,
+            "h": 242.87,
+            "l": 235.6,
+            "t": 1723435200000,
+            "n": 78454
+        },
         {
             "v": 5879058.0,
             "vw": 241.7831,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0ad2f8e3c7f3c1456a51379855c394b8",
-    "count": 500
+    "request_id": "a536d73cf9e01401a1c257c42750645c",
+    "count": 501
 }

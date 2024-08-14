@@ -1,9 +1,19 @@
 {
     "ticker": "SJM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1585548.0,
+            "vw": 117.9162,
+            "o": 118.33,
+            "c": 117.38,
+            "h": 118.425,
+            "l": 116.5522,
+            "t": 1723435200000,
+            "n": 14195
+        },
         {
             "v": 610195,
             "vw": 118.1355,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "47b15e74f3b8a98679b22d93afca22ab",
-    "count": 500
+    "request_id": "08f984a65e33857a62716da62fd9177a",
+    "count": 501
 }

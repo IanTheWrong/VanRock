@@ -1,9 +1,19 @@
 {
     "ticker": "MCHP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5290146.0,
+            "vw": 76.2154,
+            "o": 76.335,
+            "c": 76.42,
+            "h": 76.9,
+            "l": 74.96,
+            "t": 1723435200000,
+            "n": 51145
+        },
         {
             "v": 5327643.0,
             "vw": 75.9316,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1b698c890efeea4c0a742c56ab9edfed",
-    "count": 500
+    "request_id": "8fb22509f3f656f56a8b08ca5db711ac",
+    "count": 501
 }

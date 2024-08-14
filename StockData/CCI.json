@@ -1,9 +1,19 @@
 {
     "ticker": "CCI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2576564.0,
+            "vw": 110.4815,
+            "o": 110.26,
+            "c": 110.73,
+            "h": 110.84,
+            "l": 109.05,
+            "t": 1723435200000,
+            "n": 19854
+        },
         {
             "v": 1972664.0,
             "vw": 110.328,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b949c42771c12faa6ac5c8ee9c213c56",
-    "count": 500
+    "request_id": "1cb330e893bf84aecf7b4cdc82972360",
+    "count": 501
 }

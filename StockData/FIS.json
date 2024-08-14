@@ -1,9 +1,19 @@
 {
     "ticker": "FIS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2795884.0,
+            "vw": 76.168,
+            "o": 77.52,
+            "c": 76.13,
+            "h": 77.79,
+            "l": 75.815,
+            "t": 1723435200000,
+            "n": 39196
+        },
         {
             "v": 2516949.0,
             "vw": 77.1985,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d5836ff52ef808d58a81ba36d3c779b4",
-    "count": 500
+    "request_id": "747ef7077a2276969bb1f1d8afec608e",
+    "count": 501
 }

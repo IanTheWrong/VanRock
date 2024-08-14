@@ -1,9 +1,19 @@
 {
     "ticker": "GIS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1998028.0,
+            "vw": 68.5519,
+            "o": 69.45,
+            "c": 68.3,
+            "h": 69.5,
+            "l": 66,
+            "t": 1723435200000,
+            "n": 30540
+        },
         {
             "v": 1943586.0,
             "vw": 68.9829,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "81c4a8e7a170ee3efe6ec8b04b572514",
-    "count": 500
+    "request_id": "d7b84a1fe8b7206905d86b9072ad26fa",
+    "count": 501
 }

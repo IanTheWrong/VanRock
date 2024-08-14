@@ -1,9 +1,19 @@
 {
     "ticker": "DAL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 10253257.0,
+            "vw": 39.0706,
+            "o": 39,
+            "c": 39.06,
+            "h": 39.205,
+            "l": 38.81,
+            "t": 1723435200000,
+            "n": 79046
+        },
         {
             "v": 8221115.0,
             "vw": 39.1996,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "228f9888abb5f20f9cc63fdc82f440c8",
-    "count": 500
+    "request_id": "ca8a030d59181bad170bd1b77f8b55ad",
+    "count": 501
 }

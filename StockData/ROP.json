@@ -1,9 +1,19 @@
 {
     "ticker": "ROP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 292470,
+            "vw": 521.398,
+            "o": 524.51,
+            "c": 520.07,
+            "h": 526.24,
+            "l": 519.23,
+            "t": 1723435200000,
+            "n": 11058
+        },
         {
             "v": 290086,
             "vw": 525.5364,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a002829429e441eecb1ad4dd80db7d91",
-    "count": 500
+    "request_id": "862ba7fb61fbe0af4d9895a9116e35d2",
+    "count": 501
 }

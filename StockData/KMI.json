@@ -1,9 +1,19 @@
 {
     "ticker": "KMI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7528131.0,
+            "vw": 20.9156,
+            "o": 21.06,
+            "c": 20.92,
+            "h": 21.097,
+            "l": 20.82,
+            "t": 1723435200000,
+            "n": 41174
+        },
         {
             "v": 13203802.0,
             "vw": 20.9783,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7aace8322539137ed9d2dbd289e1e2e2",
-    "count": 500
+    "request_id": "b7e30783f886ae7a8ab394ad86cdc082",
+    "count": 501
 }

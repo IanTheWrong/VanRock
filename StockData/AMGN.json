@@ -1,9 +1,19 @@
 {
     "ticker": "AMGN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1805350.0,
+            "vw": 320.4408,
+            "o": 323.9,
+            "c": 320,
+            "h": 323.9,
+            "l": 317.93,
+            "t": 1723435200000,
+            "n": 31432
+        },
         {
             "v": 1728899.0,
             "vw": 322.2251,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "396dff9647d3cfdb2b642620b734d2a2",
-    "count": 500
+    "request_id": "b5f61047f0ea3aca81260a49b1737b7e",
+    "count": 501
 }

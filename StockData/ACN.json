@@ -1,9 +1,19 @@
 {
     "ticker": "ACN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2248249.0,
+            "vw": 314.7277,
+            "o": 315.47,
+            "c": 313.96,
+            "h": 317.4699,
+            "l": 312.74,
+            "t": 1723435200000,
+            "n": 38458
+        },
         {
             "v": 1797586.0,
             "vw": 315.6838,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e8e44fe9b564df708bd37b599e83b04c",
-    "count": 500
+    "request_id": "3fa082573f746468138121ed615d6d71",
+    "count": 501
 }

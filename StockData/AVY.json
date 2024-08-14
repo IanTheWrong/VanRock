@@ -1,9 +1,19 @@
 {
     "ticker": "AVY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 262068,
+            "vw": 207.1358,
+            "o": 207.27,
+            "c": 207.46,
+            "h": 208.3,
+            "l": 205.61,
+            "t": 1723435200000,
+            "n": 8207
+        },
         {
             "v": 268601,
             "vw": 207.3732,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "53b0f7b40eef2c87f052352b2f66ccab",
-    "count": 500
+    "request_id": "5b82ae320718bf85cb3f3c13d6387b8c",
+    "count": 501
 }

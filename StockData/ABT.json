@@ -1,9 +1,19 @@
 {
     "ticker": "ABT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4318590.0,
+            "vw": 107.7123,
+            "o": 108.4,
+            "c": 107.8,
+            "h": 108.4,
+            "l": 107.105,
+            "t": 1723435200000,
+            "n": 54997
+        },
         {
             "v": 5332200.0,
             "vw": 108.3983,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e8f67b471f147e37dd098598cdab7be2",
-    "count": 500
+    "request_id": "f464ce376260afc5ea42827b992db7f3",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PARA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6365721.0,
+            "vw": 10.2979,
+            "o": 10.29,
+            "c": 10.32,
+            "h": 10.41,
+            "l": 10.18,
+            "t": 1723435200000,
+            "n": 32119
+        },
         {
             "v": 14116776.0,
             "vw": 10.4048,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2471fb068536ffe632207d47c6fc00ef",
-    "count": 500
+    "request_id": "a900b96c96e714134ce626778ef759f1",
+    "count": 501
 }

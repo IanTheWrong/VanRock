@@ -1,9 +1,19 @@
 {
     "ticker": "INCY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1384356.0,
+            "vw": 61.1834,
+            "o": 60.96,
+            "c": 61.12,
+            "h": 61.71,
+            "l": 60.26,
+            "t": 1723435200000,
+            "n": 20456
+        },
         {
             "v": 1295441.0,
             "vw": 61.3325,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "07023bef5bd580cbfe63d26fd6751b14",
-    "count": 500
+    "request_id": "59877e9e1a6344dab534f83a6579f282",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "EQT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8652232.0,
+            "vw": 32.0946,
+            "o": 31.46,
+            "c": 32.26,
+            "h": 32.33,
+            "l": 31.36,
+            "t": 1723435200000,
+            "n": 67085
+        },
         {
             "v": 5258973.0,
             "vw": 31.0928,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "201c45bef527aee80f4c56fad1b9a7f1",
-    "count": 500
+    "request_id": "6f16b45bf65ab21234c7862089031351",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PANW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2033617.0,
+            "vw": 329.811,
+            "o": 330.67,
+            "c": 331.1,
+            "h": 332.4264,
+            "l": 325.15,
+            "t": 1723435200000,
+            "n": 45495
+        },
         {
             "v": 2794016.0,
             "vw": 329.323,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0ee479cea7397685fcf014fce35277c0",
-    "count": 500
+    "request_id": "5ae0e70dc62bb1cf1782c26c500398f7",
+    "count": 501
 }

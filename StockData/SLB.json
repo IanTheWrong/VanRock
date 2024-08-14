@@ -1,9 +1,19 @@
 {
     "ticker": "SLB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6350998.0,
+            "vw": 43.8382,
+            "o": 43.84,
+            "c": 43.9,
+            "h": 44.125,
+            "l": 43.5,
+            "t": 1723435200000,
+            "n": 62748
+        },
         {
             "v": 5308110.0,
             "vw": 43.5667,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "30336aed6939e0cc49f31a298ff462de",
-    "count": 500
+    "request_id": "1f803c84f3bf9ef4f046f7160dd2d5d1",
+    "count": 501
 }

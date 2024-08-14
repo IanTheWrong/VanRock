@@ -1,9 +1,19 @@
 {
     "ticker": "XOM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 13068478.0,
+            "vw": 118.8645,
+            "o": 119.55,
+            "c": 119,
+            "h": 120.1699,
+            "l": 118.02,
+            "t": 1723435200000,
+            "n": 131329
+        },
         {
             "v": 12067737.0,
             "vw": 118.5399,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "017adbc7576f1e01feb5917a152eb805",
-    "count": 500
+    "request_id": "a85063a0758c348587bfc18b728a3cd2",
+    "count": 501
 }

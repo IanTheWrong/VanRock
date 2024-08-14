@@ -1,9 +1,19 @@
 {
     "ticker": "GPN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2018072.0,
+            "vw": 101.0485,
+            "o": 102.07,
+            "c": 100.43,
+            "h": 102.84,
+            "l": 100.19,
+            "t": 1723435200000,
+            "n": 28208
+        },
         {
             "v": 2105307.0,
             "vw": 102.7549,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b8c2e21ffe968272ea9753dafa61e24a",
-    "count": 500
+    "request_id": "01a9cc05243492daa230290856ffb6e9",
+    "count": 501
 }

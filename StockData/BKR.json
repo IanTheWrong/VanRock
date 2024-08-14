@@ -1,9 +1,19 @@
 {
     "ticker": "BKR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3858805.0,
+            "vw": 35.2643,
+            "o": 35.35,
+            "c": 35.15,
+            "h": 35.72,
+            "l": 35.115,
+            "t": 1723435200000,
+            "n": 36869
+        },
         {
             "v": 5957725.0,
             "vw": 35.0574,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eb6e5b9f4eb3eaa277a8197e3f0b499f",
-    "count": 500
+    "request_id": "aa5b92070f3e2c0ab3ddaa4b16594e5c",
+    "count": 501
 }

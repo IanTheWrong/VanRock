@@ -1,9 +1,19 @@
 {
     "ticker": "ORCL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4496176.0,
+            "vw": 132.2742,
+            "o": 132.25,
+            "c": 132.58,
+            "h": 132.71,
+            "l": 131.21,
+            "t": 1723435200000,
+            "n": 65289
+        },
         {
             "v": 5367611.0,
             "vw": 131.1847,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9fe0096ae1100dcc8715021d1b826011",
-    "count": 500
+    "request_id": "cda874da49942453c4e6f1fd905a6ed7",
+    "count": 501
 }

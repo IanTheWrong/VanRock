@@ -1,9 +1,19 @@
 {
     "ticker": "JPM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6350598.0,
+            "vw": 205.9931,
+            "o": 206.41,
+            "c": 206.19,
+            "h": 207.14,
+            "l": 203.66,
+            "t": 1723435200000,
+            "n": 96678
+        },
         {
             "v": 5488248.0,
             "vw": 205.5751,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f82b2e52d30199cb75a5a0c232a4eacf",
-    "count": 500
+    "request_id": "43fef9b7b21413a2a56c8cb02475e69e",
+    "count": 501
 }

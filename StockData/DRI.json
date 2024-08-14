@@ -1,9 +1,19 @@
 {
     "ticker": "DRI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 587701,
+            "vw": 142.2574,
+            "o": 143.19,
+            "c": 142.08,
+            "h": 143.6341,
+            "l": 141.56,
+            "t": 1723435200000,
+            "n": 16941
+        },
         {
             "v": 909641,
             "vw": 143.3376,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d1bd38a657fbd7f5829af5e189a6f6e6",
-    "count": 500
+    "request_id": "8445778aefa32712c802e9f69fda1865",
+    "count": 501
 }

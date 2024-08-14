@@ -1,9 +1,19 @@
 {
     "ticker": "MAA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 665679,
+            "vw": 152.6792,
+            "o": 154.65,
+            "c": 152.25,
+            "h": 154.65,
+            "l": 151.49,
+            "t": 1723435200000,
+            "n": 14605
+        },
         {
             "v": 745639,
             "vw": 152.2975,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2f50588015fdcdb75da5065b50c51e85",
-    "count": 500
+    "request_id": "bf26c90a1db6dea707e7cc63b9c7a6e0",
+    "count": 501
 }

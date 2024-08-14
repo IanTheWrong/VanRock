@@ -1,9 +1,19 @@
 {
     "ticker": "CLX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1002774.0,
+            "vw": 141.5663,
+            "o": 142.56,
+            "c": 141.79,
+            "h": 142.83,
+            "l": 140.95,
+            "t": 1723435200000,
+            "n": 20360
+        },
         {
             "v": 1079864.0,
             "vw": 142.7244,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eba2e0b8fadabdb21eeab06cdce80a41",
-    "count": 500
+    "request_id": "0e4ec55f0c4070c4d84d44d15d5305e7",
+    "count": 501
 }

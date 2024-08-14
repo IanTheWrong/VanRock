@@ -1,9 +1,19 @@
 {
     "ticker": "AOS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 680908,
+            "vw": 79.2018,
+            "o": 80.21,
+            "c": 78.87,
+            "h": 80.41,
+            "l": 78.755,
+            "t": 1723435200000,
+            "n": 13784
+        },
         {
             "v": 619647,
             "vw": 80.5311,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "dd1996b485c0e751f260204646483421",
-    "count": 500
+    "request_id": "9263659515f800329d7eb424d81b674c",
+    "count": 501
 }

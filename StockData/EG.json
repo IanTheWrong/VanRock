@@ -1,9 +1,19 @@
 {
     "ticker": "EG",
-    "queryCount": 275,
-    "resultsCount": 275,
+    "queryCount": 276,
+    "resultsCount": 276,
     "adjusted": true,
     "results": [
+        {
+            "v": 377473,
+            "vw": 361.9021,
+            "o": 365.4,
+            "c": 360.91,
+            "h": 365.97,
+            "l": 359.6,
+            "t": 1723435200000,
+            "n": 9975
+        },
         {
             "v": 277391,
             "vw": 363.6346,
@@ -2756,6 +2766,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "272b84f89f5a87b0a9d7f3bf11d8bcb2",
-    "count": 275
+    "request_id": "9e58cb993172b15fef83a4a4a5e079c6",
+    "count": 276
 }

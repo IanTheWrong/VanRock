@@ -21,6 +21,7 @@ class ichimoku():
             PastKijunSen = 0
             with open(f"./StockData/{ticker}.json", 'r') as file:
                 data = json.load(file)
+            print(ticker)
 
             #TenkenSen
             tempLow = data["results"][0]['l']

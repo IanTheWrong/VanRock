@@ -1,9 +1,19 @@
 {
     "ticker": "IP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1998731.0,
+            "vw": 44.519,
+            "o": 44.69,
+            "c": 44.51,
+            "h": 44.78,
+            "l": 44.34,
+            "t": 1723435200000,
+            "n": 24531
+        },
         {
             "v": 2151144.0,
             "vw": 44.3746,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4e1685eacf755813ea49739d11ea604b",
-    "count": 500
+    "request_id": "e872e7381e92a792be841d52f10e0941",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "HCA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 782879,
+            "vw": 361.4525,
+            "o": 360.32,
+            "c": 361.4,
+            "h": 362.9705,
+            "l": 358.5,
+            "t": 1723435200000,
+            "n": 18446
+        },
         {
             "v": 614934,
             "vw": 360.2222,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4d1ef38aa7ecdfc424073899de92b6d8",
-    "count": 500
+    "request_id": "49170f0bf033e9db6514fdbeebebfd36",
+    "count": 501
 }

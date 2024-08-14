@@ -1,9 +1,19 @@
 {
     "ticker": "NRG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3384826.0,
+            "vw": 79.5197,
+            "o": 80.37,
+            "c": 79.87,
+            "h": 80.63,
+            "l": 77.98,
+            "t": 1723435200000,
+            "n": 45114
+        },
         {
             "v": 3734501.0,
             "vw": 79.2728,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "fb38b95a9c7325286d420323e9f0ff68",
-    "count": 500
+    "request_id": "651b901db19984081a0911cb0d2b00eb",
+    "count": 501
 }

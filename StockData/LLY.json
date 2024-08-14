@@ -1,9 +1,19 @@
 {
     "ticker": "LLY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4076482.0,
+            "vw": 890.9259,
+            "o": 904.21,
+            "c": 884.38,
+            "h": 904.72,
+            "l": 883,
+            "t": 1723435200000,
+            "n": 127182
+        },
         {
             "v": 6455477.0,
             "vw": 891.6607,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4d281149c18e4c21ad0ce0bdef9ace31",
-    "count": 500
+    "request_id": "6532cbad2833c4cc5d91babf9c372825",
+    "count": 501
 }

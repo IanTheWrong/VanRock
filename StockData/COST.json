@@ -1,9 +1,19 @@
 {
     "ticker": "COST",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1729457.0,
+            "vw": 863.2664,
+            "o": 857.25,
+            "c": 863.57,
+            "h": 870.25,
+            "l": 852.4,
+            "t": 1723435200000,
+            "n": 75543
+        },
         {
             "v": 1634399.0,
             "vw": 851.1367,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "33aed94c42ee2ee6ca8c1338e69fdf28",
-    "count": 500
+    "request_id": "5281d0970ea532e3ec022dfcb23fbe27",
+    "count": 501
 }

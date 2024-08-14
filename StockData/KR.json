@@ -1,9 +1,19 @@
 {
     "ticker": "KR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2649202.0,
+            "vw": 53.4182,
+            "o": 53.92,
+            "c": 53.24,
+            "h": 54.03,
+            "l": 53.18,
+            "t": 1723435200000,
+            "n": 35033
+        },
         {
             "v": 2810476.0,
             "vw": 53.8833,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c3a4003beceba5fd2c2db93d2ddd27ad",
-    "count": 500
+    "request_id": "b08e6b4f9c7979eb5952d8ae442bfe5f",
+    "count": 501
 }

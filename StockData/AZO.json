@@ -1,9 +1,19 @@
 {
     "ticker": "AZO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 124980,
+            "vw": 3144.0387,
+            "o": 3162.11,
+            "c": 3148.6,
+            "h": 3164.45,
+            "l": 3101.47,
+            "t": 1723435200000,
+            "n": 10852
+        },
         {
             "v": 73151,
             "vw": 3127.9835,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "344c392df75e04c62217cf72904f7cf4",
-    "count": 500
+    "request_id": "bb7ec124ae059c6b383f5743e2005071",
+    "count": 501
 }

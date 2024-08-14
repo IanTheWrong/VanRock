@@ -1,9 +1,19 @@
 {
     "ticker": "CDW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 711215,
+            "vw": 212.087,
+            "o": 213.54,
+            "c": 212.1,
+            "h": 213.58,
+            "l": 211.045,
+            "t": 1723435200000,
+            "n": 17469
+        },
         {
             "v": 539438,
             "vw": 213.0562,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "25afc11a0a139756eb0317000eefd38c",
-    "count": 500
+    "request_id": "2d4d6ad506b4d3c335f32dd5fdcebc9d",
+    "count": 501
 }

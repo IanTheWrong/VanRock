@@ -1,9 +1,19 @@
 {
     "ticker": "BF.B",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1182850.0,
+            "vw": 44.1197,
+            "o": 44.56,
+            "c": 43.96,
+            "h": 44.78,
+            "l": 43.9075,
+            "t": 1723435200000,
+            "n": 18901
+        },
         {
             "v": 1230831.0,
             "vw": 44.3727,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eedb684cf7b73670272d20daa11684cf",
-    "count": 500
+    "request_id": "f0544a0c68ad4b48dd44b04cc49923d2",
+    "count": 501
 }

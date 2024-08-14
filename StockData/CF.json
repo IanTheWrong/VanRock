@@ -1,9 +1,19 @@
 {
     "ticker": "CF",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2158664.0,
+            "vw": 80.9803,
+            "o": 80,
+            "c": 80.85,
+            "h": 81.84,
+            "l": 79.955,
+            "t": 1723435200000,
+            "n": 28353
+        },
         {
             "v": 1539303.0,
             "vw": 79.4612,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "69e53943094a15146e3422f8f606ae5e",
-    "count": 500
+    "request_id": "58d14671a0c6f6136ee256cecb08574d",
+    "count": 501
 }

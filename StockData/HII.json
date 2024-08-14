@@ -1,9 +1,19 @@
 {
     "ticker": "HII",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 369014,
+            "vw": 263.3428,
+            "o": 259.86,
+            "c": 263.73,
+            "h": 265.32,
+            "l": 258.11,
+            "t": 1723435200000,
+            "n": 11586
+        },
         {
             "v": 180821,
             "vw": 259.7368,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "fecf48b4e7165b6ab00ab27805dc533e",
-    "count": 500
+    "request_id": "e873e3f12b8a25059b79ae7bc61e0dcf",
+    "count": 501
 }

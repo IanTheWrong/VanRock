@@ -1,9 +1,19 @@
 {
     "ticker": "FRT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 377632,
+            "vw": 111.6934,
+            "o": 112.57,
+            "c": 111.67,
+            "h": 112.65,
+            "l": 111.1,
+            "t": 1723435200000,
+            "n": 8885
+        },
         {
             "v": 517491,
             "vw": 112.488,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0ed2595ee05d9fda89a506b9e8fc94bb",
-    "count": 500
+    "request_id": "3245738b1bcf97bde0441422510a2918",
+    "count": 501
 }

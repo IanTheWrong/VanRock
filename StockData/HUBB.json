@@ -1,9 +1,19 @@
 {
     "ticker": "HUBB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 316962,
+            "vw": 373.2932,
+            "o": 377.58,
+            "c": 373.27,
+            "h": 379.975,
+            "l": 370.5,
+            "t": 1723435200000,
+            "n": 10803
+        },
         {
             "v": 411908,
             "vw": 373.9732,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0c2ca2d80be6e921219324fce529134a",
-    "count": 500
+    "request_id": "93fd61140f5f6372bb2d06f5877ef8e7",
+    "count": 501
 }

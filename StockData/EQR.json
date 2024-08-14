@@ -1,9 +1,19 @@
 {
     "ticker": "EQR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1162941.0,
+            "vw": 70.6956,
+            "o": 70.89,
+            "c": 70.85,
+            "h": 71.19,
+            "l": 70.32,
+            "t": 1723435200000,
+            "n": 19439
+        },
         {
             "v": 1163345.0,
             "vw": 71.2036,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "593d54f60ca9ea5c398487a5e9f49c46",
-    "count": 500
+    "request_id": "7942fcbf832974fbb6747681cfbcd191",
+    "count": 501
 }

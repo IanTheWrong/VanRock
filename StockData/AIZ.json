@@ -1,9 +1,19 @@
 {
     "ticker": "AIZ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 374789,
+            "vw": 178.1912,
+            "o": 177.9,
+            "c": 178.46,
+            "h": 178.87,
+            "l": 177.43,
+            "t": 1723435200000,
+            "n": 10609
+        },
         {
             "v": 382288,
             "vw": 176.2173,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3965a34789e9449b7858ad56ea9f5eae",
-    "count": 500
+    "request_id": "ebb88993c1bcfaed592c41e6e3347a69",
+    "count": 501
 }

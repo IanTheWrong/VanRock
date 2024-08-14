@@ -1,9 +1,19 @@
 {
     "ticker": "JNPR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2499987.0,
+            "vw": 38.8313,
+            "o": 38.66,
+            "c": 38.78,
+            "h": 38.91,
+            "l": 38.55,
+            "t": 1723435200000,
+            "n": 22027
+        },
         {
             "v": 1558407.0,
             "vw": 38.5798,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2508adafa502c1d6a8317351220129be",
-    "count": 500
+    "request_id": "ff7c975cd4b2651bfdebb52ff7474a5a",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "EMR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2497667.0,
+            "vw": 103.065,
+            "o": 103.81,
+            "c": 103.07,
+            "h": 103.99,
+            "l": 102.3014,
+            "t": 1723435200000,
+            "n": 36795
+        },
         {
             "v": 3563826.0,
             "vw": 103.3741,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "91b5d1920f39095257cfa8bf86db7ec3",
-    "count": 500
+    "request_id": "e6f3ca6d385a86cd701c6c0687d88ea4",
+    "count": 501
 }

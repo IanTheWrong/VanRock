@@ -1,9 +1,19 @@
 {
     "ticker": "FFIV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 347355,
+            "vw": 189.7004,
+            "o": 192.09,
+            "c": 189.19,
+            "h": 192.09,
+            "l": 188.515,
+            "t": 1723435200000,
+            "n": 10697
+        },
         {
             "v": 299877,
             "vw": 190.9322,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3341b68548cac015e61efa38069cc400",
-    "count": 500
+    "request_id": "08f6cbacbdf2d6f9da991df1a92a05c3",
+    "count": 501
 }

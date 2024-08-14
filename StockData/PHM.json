@@ -1,9 +1,19 @@
 {
     "ticker": "PHM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1202957.0,
+            "vw": 122.0926,
+            "o": 123.02,
+            "c": 121.96,
+            "h": 123.35,
+            "l": 120.75,
+            "t": 1723435200000,
+            "n": 24348
+        },
         {
             "v": 1514562.0,
             "vw": 123.4312,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "87438c56310fd0115ff256440bf8dd81",
-    "count": 500
+    "request_id": "d58427cb9a0e19ffe1b1cc0eba943b15",
+    "count": 501
 }

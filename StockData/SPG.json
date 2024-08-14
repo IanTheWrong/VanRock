@@ -1,9 +1,19 @@
 {
     "ticker": "SPG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1914778.0,
+            "vw": 154.0237,
+            "o": 157.59,
+            "c": 153.1,
+            "h": 159.68,
+            "l": 151.77,
+            "t": 1723435200000,
+            "n": 35800
+        },
         {
             "v": 1276089.0,
             "vw": 158.3407,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d1a407c0d48d6a7e6fad3aafa688b46f",
-    "count": 500
+    "request_id": "39701c36ca2d236ccdbf703e682af760",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "MNST",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7618594.0,
+            "vw": 46.1628,
+            "o": 46.02,
+            "c": 45.89,
+            "h": 46.57,
+            "l": 45.86,
+            "t": 1723435200000,
+            "n": 78742
+        },
         {
             "v": 14615887.0,
             "vw": 45.8311,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4199c8f148b3feb24542e00732e1aa67",
-    "count": 500
+    "request_id": "b090bf9ae6cb2ef1c90352ba3e21c54b",
+    "count": 501
 }

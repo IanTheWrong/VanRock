@@ -1,9 +1,19 @@
 {
     "ticker": "NWSA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2979215.0,
+            "vw": 27.17,
+            "o": 27.63,
+            "c": 27.11,
+            "h": 27.83,
+            "l": 27.06,
+            "t": 1723435200000,
+            "n": 31414
+        },
         {
             "v": 5081179.0,
             "vw": 27.6369,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "bc170756fc414e9eb842d3687e3c7edc",
-    "count": 500
+    "request_id": "2257a41ff5972c681f978ce37fc4427b",
+    "count": 501
 }

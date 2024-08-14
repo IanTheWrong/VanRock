@@ -1,9 +1,19 @@
 {
     "ticker": "CNC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3181900.0,
+            "vw": 76.0422,
+            "o": 76.265,
+            "c": 75.67,
+            "h": 76.93,
+            "l": 75.44,
+            "t": 1723435200000,
+            "n": 39989
+        },
         {
             "v": 2554505.0,
             "vw": 76.1228,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "bf9c154db9dcab1172cc23dfab3dbab1",
-    "count": 500
+    "request_id": "1c8105e441f44949e51e81618fe93558",
+    "count": 501
 }

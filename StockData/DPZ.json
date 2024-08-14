@@ -1,9 +1,19 @@
 {
     "ticker": "DPZ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 472149,
+            "vw": 442.6719,
+            "o": 437.5,
+            "c": 444.9,
+            "h": 447.64,
+            "l": 435.95,
+            "t": 1723435200000,
+            "n": 14174
+        },
         {
             "v": 438866,
             "vw": 438.2192,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a349b1f2861bcc4ff72ca8b81717c76c",
-    "count": 500
+    "request_id": "7eed07d03227674ec7669f48a0619c50",
+    "count": 501
 }

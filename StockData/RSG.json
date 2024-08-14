@@ -1,9 +1,19 @@
 {
     "ticker": "RSG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1004864.0,
+            "vw": 199.683,
+            "o": 201.11,
+            "c": 199.51,
+            "h": 201.11,
+            "l": 198.77,
+            "t": 1723435200000,
+            "n": 20230
+        },
         {
             "v": 882580,
             "vw": 200.8579,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ca86b3f96d5a6212e2adaf42dedbe44d",
-    "count": 500
+    "request_id": "399fc3ac5d08e3b2cb04fc34753bd9a9",
+    "count": 501
 }

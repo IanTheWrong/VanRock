@@ -1,9 +1,19 @@
 {
     "ticker": "EXPE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2409390.0,
+            "vw": 127.1472,
+            "o": 128.51,
+            "c": 126.89,
+            "h": 129.69,
+            "l": 126.3301,
+            "t": 1723435200000,
+            "n": 39939
+        },
         {
             "v": 6085824.0,
             "vw": 128.9392,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7518214d1bfb3f202b2a77aa197415fe",
-    "count": 500
+    "request_id": "1589367ff64254de7cd6fb8ce03562ba",
+    "count": 501
 }

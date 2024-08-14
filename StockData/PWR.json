@@ -1,9 +1,19 @@
 {
     "ticker": "PWR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 647822,
+            "vw": 259.5958,
+            "o": 260.84,
+            "c": 260.04,
+            "h": 262.56,
+            "l": 257.55,
+            "t": 1723435200000,
+            "n": 17691
+        },
         {
             "v": 793290,
             "vw": 259.4526,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "295d5be92a5a2ac9072a1edb0f2c1369",
-    "count": 500
+    "request_id": "02320644a01e29e42deafe69643d07a4",
+    "count": 501
 }

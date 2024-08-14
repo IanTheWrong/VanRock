@@ -1,9 +1,19 @@
 {
     "ticker": "APTV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2644667.0,
+            "vw": 67.3736,
+            "o": 67.71,
+            "c": 67.25,
+            "h": 67.9811,
+            "l": 66.7368,
+            "t": 1723435200000,
+            "n": 27400
+        },
         {
             "v": 3034901.0,
             "vw": 68.1361,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c48a1754a360e30c98d1d3bf1a853a54",
-    "count": 500
+    "request_id": "387d4a7b93bbc8abafc19217067e9f0f",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "MCK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1104632.0,
+            "vw": 550.3137,
+            "o": 540,
+            "c": 551,
+            "h": 554.31,
+            "l": 537.995,
+            "t": 1723435200000,
+            "n": 31676
+        },
         {
             "v": 1735911.0,
             "vw": 543.2047,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f049c63826315756e2c51ed4215ae130",
-    "count": 500
+    "request_id": "91f8b2ff9c937a3410b11d0cadce995f",
+    "count": 501
 }

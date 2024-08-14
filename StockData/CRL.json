@@ -1,9 +1,19 @@
 {
     "ticker": "CRL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1518443.0,
+            "vw": 196.098,
+            "o": 199.52,
+            "c": 194.31,
+            "h": 200.21,
+            "l": 193.33,
+            "t": 1723435200000,
+            "n": 24832
+        },
         {
             "v": 1055865.0,
             "vw": 201.0318,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6e200453d4ca0bc095c0f26962654227",
-    "count": 500
+    "request_id": "2cd404765a4dbe0f629c2d37a28f7a53",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "LKQ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2007811.0,
+            "vw": 38.6323,
+            "o": 39.05,
+            "c": 38.47,
+            "h": 39.2793,
+            "l": 38.4,
+            "t": 1723435200000,
+            "n": 24362
+        },
         {
             "v": 1099055.0,
             "vw": 39.0919,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "fd506ef6a769d2a7cd8127ae0f203a72",
-    "count": 500
+    "request_id": "182a8616ebbd620e91ddc1a5130dbacf",
+    "count": 501
 }

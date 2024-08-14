@@ -1,9 +1,19 @@
 {
     "ticker": "NUE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1637861.0,
+            "vw": 141.6677,
+            "o": 145.32,
+            "c": 141.35,
+            "h": 145.34,
+            "l": 140.37,
+            "t": 1723435200000,
+            "n": 32208
+        },
         {
             "v": 940777,
             "vw": 145.0122,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ef5165ff525d96cf7ffdf8488508c7b1",
-    "count": 500
+    "request_id": "a90091b5b789d875192feb75f40ba2cd",
+    "count": 501
 }

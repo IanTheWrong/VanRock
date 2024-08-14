@@ -1,9 +1,19 @@
 {
     "ticker": "NKE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6918077.0,
+            "vw": 74.4764,
+            "o": 74.71,
+            "c": 74.64,
+            "h": 75,
+            "l": 74.0504,
+            "t": 1723435200000,
+            "n": 93545
+        },
         {
             "v": 7097311.0,
             "vw": 74.1256,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6bd264dc44f6e15736f2b256b7076814",
-    "count": 500
+    "request_id": "4b0a2d989dafb7e7b9862ff00affbd4a",
+    "count": 501
 }

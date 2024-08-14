@@ -1,9 +1,19 @@
 {
     "ticker": "KHC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8164845.0,
+            "vw": 34.2894,
+            "o": 34.98,
+            "c": 34.17,
+            "h": 35.02,
+            "l": 34.065,
+            "t": 1723435200000,
+            "n": 70239
+        },
         {
             "v": 4948745.0,
             "vw": 35.2426,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "66ac301cf7c235bc77881b9722c6c47a",
-    "count": 500
+    "request_id": "f9dedafdbc95dab10e18ea69c3bba7dc",
+    "count": 501
 }

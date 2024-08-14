@@ -1,9 +1,19 @@
 {
     "ticker": "STX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1279101.0,
+            "vw": 96.0479,
+            "o": 96.01,
+            "c": 95.83,
+            "h": 97.09,
+            "l": 95.1,
+            "t": 1723435200000,
+            "n": 24303
+        },
         {
             "v": 1479175.0,
             "vw": 96.1247,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d0a6157f4b7677982cbcad82bebaa43c",
-    "count": 500
+    "request_id": "ec0ca4a46cd7d50e41fc5821cf187268",
+    "count": 501
 }

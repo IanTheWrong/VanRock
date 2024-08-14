@@ -1,9 +1,19 @@
 {
     "ticker": "IPG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2127272.0,
+            "vw": 30.5816,
+            "o": 30.43,
+            "c": 30.51,
+            "h": 30.84,
+            "l": 30.315,
+            "t": 1723435200000,
+            "n": 24581
+        },
         {
             "v": 2345724.0,
             "vw": 30.4061,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "bcfe3a3b493877e36c0e49788954d015",
-    "count": 500
+    "request_id": "5cc46f9c484d246c0aafbf11de1d8884",
+    "count": 501
 }

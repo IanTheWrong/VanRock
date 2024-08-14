@@ -1,9 +1,19 @@
 {
     "ticker": "MRNA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3009832.0,
+            "vw": 81.9697,
+            "o": 85,
+            "c": 81.29,
+            "h": 85,
+            "l": 80.7806,
+            "t": 1723435200000,
+            "n": 50849
+        },
         {
             "v": 2344652.0,
             "vw": 84.0933,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "69b9b6810b5f8c74add423b2a3ed84d3",
-    "count": 500
+    "request_id": "450b7732d89ee7b5ab67de9c26d834e0",
+    "count": 501
 }

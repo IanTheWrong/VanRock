@@ -1,9 +1,19 @@
 {
     "ticker": "ABNB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3958496.0,
+            "vw": 114.1644,
+            "o": 115.48,
+            "c": 113.62,
+            "h": 115.5,
+            "l": 113.27,
+            "t": 1723435200000,
+            "n": 59980
+        },
         {
             "v": 4686368.0,
             "vw": 114.5423,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f3522a9b600305caf06b96d627a17a2f",
-    "count": 500
+    "request_id": "c0a4569dc3a0fce74929b6905694de42",
+    "count": 501
 }

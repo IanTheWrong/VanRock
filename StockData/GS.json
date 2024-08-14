@@ -1,9 +1,19 @@
 {
     "ticker": "GS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1835503.0,
+            "vw": 486.0531,
+            "o": 490.26,
+            "c": 485.5,
+            "h": 492.87,
+            "l": 483.75,
+            "t": 1723435200000,
+            "n": 36540
+        },
         {
             "v": 1617807.0,
             "vw": 488.8926,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1bdc02eee683bd94ca5a80c1af7fbd97",
-    "count": 500
+    "request_id": "8c4c6861ad07ea6723c5a45c170cce86",
+    "count": 501
 }

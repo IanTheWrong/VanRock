@@ -1,9 +1,19 @@
 {
     "ticker": "LHX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 525112,
+            "vw": 229.1838,
+            "o": 228.68,
+            "c": 228.83,
+            "h": 230.3,
+            "l": 227.3,
+            "t": 1723435200000,
+            "n": 15795
+        },
         {
             "v": 492830,
             "vw": 228.1362,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "60b52b9d8873356fb6414d72b31ca4b5",
-    "count": 500
+    "request_id": "d1cc5a174aeb5cb3254ef56aa2eca71a",
+    "count": 501
 }

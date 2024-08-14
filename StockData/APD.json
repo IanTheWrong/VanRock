@@ -1,9 +1,19 @@
 {
     "ticker": "APD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1367930.0,
+            "vw": 274.2033,
+            "o": 277.64,
+            "c": 273.93,
+            "h": 277.755,
+            "l": 273,
+            "t": 1723435200000,
+            "n": 20362
+        },
         {
             "v": 1170981.0,
             "vw": 278.7637,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0b8690e9e850de1964ccdf825cb9410a",
-    "count": 500
+    "request_id": "cb539c92e5956ec7f0b3699d2c192557",
+    "count": 501
 }

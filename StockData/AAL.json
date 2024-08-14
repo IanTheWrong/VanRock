@@ -1,9 +1,19 @@
 {
     "ticker": "AAL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 29742683.0,
+            "vw": 9.6724,
+            "o": 9.79,
+            "c": 9.61,
+            "h": 9.8,
+            "l": 9.59,
+            "t": 1723435200000,
+            "n": 69594
+        },
         {
             "v": 22580633.0,
             "vw": 9.8264,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a75ee2bb3c9bf8be12a03c50a3aa4525",
-    "count": 500
+    "request_id": "d0953ed0a8e09666e5b21e850f22d40a",
+    "count": 501
 }

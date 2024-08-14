@@ -1,9 +1,19 @@
 {
     "ticker": "MAS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1437209.0,
+            "vw": 72.3753,
+            "o": 72.4,
+            "c": 72.19,
+            "h": 73.11,
+            "l": 71.9,
+            "t": 1723435200000,
+            "n": 19681
+        },
         {
             "v": 1190619.0,
             "vw": 72.5182,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7eb035e61f0872af0f5b688dd0cb0bc5",
-    "count": 500
+    "request_id": "e06b566567b87909b8cff189f26ed7c9",
+    "count": 501
 }

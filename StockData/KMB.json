@@ -1,9 +1,19 @@
 {
     "ticker": "KMB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2091895.0,
+            "vw": 138.3258,
+            "o": 139.53,
+            "c": 138.3,
+            "h": 139.53,
+            "l": 137.72,
+            "t": 1723435200000,
+            "n": 32587
+        },
         {
             "v": 1456125.0,
             "vw": 140.1871,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d7c9087fafd2ad0780a1d8283884f88e",
-    "count": 500
+    "request_id": "80e32f065c89f3555db8dd31621e907b",
+    "count": 501
 }

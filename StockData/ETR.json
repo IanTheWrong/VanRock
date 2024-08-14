@@ -1,9 +1,19 @@
 {
     "ticker": "ETR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1362338.0,
+            "vw": 117.3078,
+            "o": 117.63,
+            "c": 117.52,
+            "h": 118,
+            "l": 116.73,
+            "t": 1723435200000,
+            "n": 22224
+        },
         {
             "v": 1100059.0,
             "vw": 117.1501,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0043458fc4b32e913cdeda91b116b34c",
-    "count": 500
+    "request_id": "9c98cb3a0e9df323f274bc2714a68170",
+    "count": 501
 }

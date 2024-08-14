@@ -1,9 +1,19 @@
 {
     "ticker": "PEG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2749003.0,
+            "vw": 80.1991,
+            "o": 79.99,
+            "c": 80.51,
+            "h": 80.53,
+            "l": 79.495,
+            "t": 1723435200000,
+            "n": 26766
+        },
         {
             "v": 1968132.0,
             "vw": 79.5611,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "60edea8fe6057ccf1a6f74cd55479a75",
-    "count": 500
+    "request_id": "4e98ba5db7b63432128cd2d0bb2ccd9f",
+    "count": 501
 }

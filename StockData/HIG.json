@@ -1,9 +1,19 @@
 {
     "ticker": "HIG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1402090.0,
+            "vw": 107.7132,
+            "o": 108.54,
+            "c": 107.09,
+            "h": 109.04,
+            "l": 106.835,
+            "t": 1723435200000,
+            "n": 24228
+        },
         {
             "v": 1125769.0,
             "vw": 107.7814,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d4d92e3a46ad622d1168ce7c81e1580b",
-    "count": 500
+    "request_id": "b78a393a3769d68841b906f14c210e68",
+    "count": 501
 }

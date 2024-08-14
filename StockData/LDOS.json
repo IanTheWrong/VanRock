@@ -1,9 +1,19 @@
 {
     "ticker": "LDOS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 728810,
+            "vw": 144.9775,
+            "o": 144,
+            "c": 144.69,
+            "h": 145.8,
+            "l": 143.4764,
+            "t": 1723435200000,
+            "n": 16892
+        },
         {
             "v": 1008016.0,
             "vw": 144.1834,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "107479e60f0b381d40eb093d981401fe",
-    "count": 500
+    "request_id": "3cf75ba57bb3e6d732cdb5b73f18fa24",
+    "count": 501
 }

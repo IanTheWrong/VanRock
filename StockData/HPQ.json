@@ -1,9 +1,19 @@
 {
     "ticker": "HPQ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5299723.0,
+            "vw": 33.839,
+            "o": 33.63,
+            "c": 33.78,
+            "h": 34.17,
+            "l": 33.58,
+            "t": 1723435200000,
+            "n": 43149
+        },
         {
             "v": 6563843.0,
             "vw": 33.5746,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "eb49f0be02cd5888c26edfffc89482b7",
-    "count": 500
+    "request_id": "42b1f35efec55719e7a8a001509f031a",
+    "count": 501
 }

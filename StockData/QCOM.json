@@ -1,9 +1,19 @@
 {
     "ticker": "QCOM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8376423.0,
+            "vw": 161.4503,
+            "o": 160.56,
+            "c": 162.89,
+            "h": 163.39,
+            "l": 157.42,
+            "t": 1723435200000,
+            "n": 141044
+        },
         {
             "v": 4737973.0,
             "vw": 164.3324,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c1972992ea0b215159ac4774bfbb9043",
-    "count": 500
+    "request_id": "14d8603b7e8d72eac4a8d36a58b7f003",
+    "count": 501
 }

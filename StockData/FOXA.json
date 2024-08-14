@@ -1,9 +1,19 @@
 {
     "ticker": "FOXA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2424504.0,
+            "vw": 39.007,
+            "o": 39.29,
+            "c": 38.83,
+            "h": 39.47,
+            "l": 38.79,
+            "t": 1723435200000,
+            "n": 26494
+        },
         {
             "v": 2446442.0,
             "vw": 39.3578,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b146689dc665aff4fbdbe5bcab9694e9",
-    "count": 500
+    "request_id": "42db6a2d414cddb204f6e3fe87411531",
+    "count": 501
 }

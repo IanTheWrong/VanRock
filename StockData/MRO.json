@@ -1,9 +1,19 @@
 {
     "ticker": "MRO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5786671.0,
+            "vw": 27.745,
+            "o": 27.45,
+            "c": 27.86,
+            "h": 27.91,
+            "l": 27.39,
+            "t": 1723435200000,
+            "n": 41070
+        },
         {
             "v": 6582590.0,
             "vw": 27.2484,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0cf5b801f56dfc01b4686da1017f2f96",
-    "count": 500
+    "request_id": "3c5679efe6309998073e00529350f913",
+    "count": 501
 }

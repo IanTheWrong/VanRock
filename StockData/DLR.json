@@ -1,9 +1,19 @@
 {
     "ticker": "DLR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1087260.0,
+            "vw": 148.31,
+            "o": 149.78,
+            "c": 148.75,
+            "h": 150.23,
+            "l": 147.09,
+            "t": 1723435200000,
+            "n": 26157
+        },
         {
             "v": 768418,
             "vw": 150.0952,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "593ec7a7b2775b6ba036545906f258d1",
-    "count": 500
+    "request_id": "bbfb713014b71c7effc87136cba1bf1c",
+    "count": 501
 }

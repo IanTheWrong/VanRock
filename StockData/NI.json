@@ -1,9 +1,19 @@
 {
     "ticker": "NI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2718076.0,
+            "vw": 31.4951,
+            "o": 31.32,
+            "c": 31.56,
+            "h": 31.6,
+            "l": 31.285,
+            "t": 1723435200000,
+            "n": 24523
+        },
         {
             "v": 4223331.0,
             "vw": 31.2716,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a8b1f84cfc876e5010ca480787bf7753",
-    "count": 500
+    "request_id": "fced330fe554455f627668e88c23e388",
+    "count": 501
 }

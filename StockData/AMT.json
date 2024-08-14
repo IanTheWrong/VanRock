@@ -1,9 +1,19 @@
 {
     "ticker": "AMT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1438979.0,
+            "vw": 223.9367,
+            "o": 221.58,
+            "c": 225.54,
+            "h": 225.66,
+            "l": 219.79,
+            "t": 1723435200000,
+            "n": 30073
+        },
         {
             "v": 2024692.0,
             "vw": 223.4111,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0d7ddcc3d760563f66b1d4a62e4ae0c8",
-    "count": 500
+    "request_id": "a42be22bd1f001645f848ec99668b82f",
+    "count": 501
 }

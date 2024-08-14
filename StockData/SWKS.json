@@ -1,9 +1,19 @@
 {
     "ticker": "SWKS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1594027.0,
+            "vw": 102.4102,
+            "o": 102.37,
+            "c": 102.47,
+            "h": 103.36,
+            "l": 101.6,
+            "t": 1723435200000,
+            "n": 27019
+        },
         {
             "v": 1161761.0,
             "vw": 101.7548,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "75b24ca69fb0116d91502484880016eb",
-    "count": 500
+    "request_id": "784e9c18100640413ac16d712e44cf88",
+    "count": 501
 }

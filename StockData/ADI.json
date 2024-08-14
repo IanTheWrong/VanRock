@@ -1,9 +1,19 @@
 {
     "ticker": "ADI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1691556.0,
+            "vw": 211.6536,
+            "o": 212.15,
+            "c": 212.08,
+            "h": 213.4,
+            "l": 210,
+            "t": 1723435200000,
+            "n": 36975
+        },
         {
             "v": 2248382.0,
             "vw": 211.2723,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1f4d1498ed7dcf035b9d79115f3be842",
-    "count": 500
+    "request_id": "8cb708e5925c403d34c7d9543ce20770",
+    "count": 501
 }

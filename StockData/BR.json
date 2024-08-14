@@ -1,9 +1,19 @@
 {
     "ticker": "BR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 480413,
+            "vw": 211.7122,
+            "o": 214.64,
+            "c": 211.15,
+            "h": 214.9872,
+            "l": 210.78,
+            "t": 1723435200000,
+            "n": 13178
+        },
         {
             "v": 377586,
             "vw": 214.6583,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "cca3c6d43662194a4bbc265f6940b60f",
-    "count": 500
+    "request_id": "17df288c4ae5f11352cab02da5b96bb1",
+    "count": 501
 }

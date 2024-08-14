@@ -1,9 +1,19 @@
 {
     "ticker": "APH",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4058458.0,
+            "vw": 63.0962,
+            "o": 62.85,
+            "c": 63.05,
+            "h": 63.59,
+            "l": 62.61,
+            "t": 1723435200000,
+            "n": 51041
+        },
         {
             "v": 5139708.0,
             "vw": 62.4653,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "00ad2eba3e00e54f3c1cfde6e391306e",
-    "count": 500
+    "request_id": "816e8942b342cc1fe8943061eacc9550",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ALLE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 527545,
+            "vw": 128.9115,
+            "o": 128.69,
+            "c": 128.76,
+            "h": 129.89,
+            "l": 127.82,
+            "t": 1723435200000,
+            "n": 12894
+        },
         {
             "v": 499024,
             "vw": 129.062,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "079f9a1c384348c2c49787dcae6e06da",
-    "count": 500
+    "request_id": "3d68049e7c4745325061f65b12ac68fc",
+    "count": 501
 }

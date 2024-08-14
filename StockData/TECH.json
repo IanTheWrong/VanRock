@@ -1,9 +1,19 @@
 {
     "ticker": "TECH",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 749769,
+            "vw": 71.6438,
+            "o": 71.77,
+            "c": 71.78,
+            "h": 72.14,
+            "l": 70.48,
+            "t": 1723435200000,
+            "n": 14320
+        },
         {
             "v": 800422,
             "vw": 72.226,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9cc236e35ed4669d8cb160abcde173ed",
-    "count": 500
+    "request_id": "3c0cd012d47cf910ac8a2848b46ac302",
+    "count": 501
 }

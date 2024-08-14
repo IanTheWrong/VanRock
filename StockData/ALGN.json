@@ -1,9 +1,19 @@
 {
     "ticker": "ALGN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 632826,
+            "vw": 213.8048,
+            "o": 213.74,
+            "c": 213.57,
+            "h": 215.34,
+            "l": 211.35,
+            "t": 1723435200000,
+            "n": 17825
+        },
         {
             "v": 756025,
             "vw": 213.9991,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2e1515d03f560e1e707b99e23a282d96",
-    "count": 500
+    "request_id": "e14b2770eab4b25605e431c1de3ee35f",
+    "count": 501
 }

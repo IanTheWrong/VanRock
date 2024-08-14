@@ -1,9 +1,19 @@
 {
     "ticker": "FSLR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1686886.0,
+            "vw": 218.1152,
+            "o": 212.85,
+            "c": 219.23,
+            "h": 220.52,
+            "l": 212.2,
+            "t": 1723435200000,
+            "n": 41771
+        },
         {
             "v": 804738,
             "vw": 210.9703,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "856b77fbbd148181ff9cc00733631be0",
-    "count": 500
+    "request_id": "efaf38af69382ff39a8d421b190d688f",
+    "count": 501
 }

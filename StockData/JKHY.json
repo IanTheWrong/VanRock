@@ -1,9 +1,19 @@
 {
     "ticker": "JKHY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 377754,
+            "vw": 163.6162,
+            "o": 166.43,
+            "c": 162.71,
+            "h": 166.625,
+            "l": 162.57,
+            "t": 1723435200000,
+            "n": 11248
+        },
         {
             "v": 399651,
             "vw": 166.8711,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d73cca43b0907cf58453362aa6d5a476",
-    "count": 500
+    "request_id": "4e53444c3a43678b9e6e6ded688d2cc3",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "MSFT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 15279064.0,
+            "vw": 406.4543,
+            "o": 407.06,
+            "c": 406.81,
+            "h": 408.76,
+            "l": 404.2434,
+            "t": 1723435200000,
+            "n": 337998
+        },
         {
             "v": 17981644.0,
             "vw": 405.3767,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "317ba79f5230002fd1d0bee7e320c399",
-    "count": 500
+    "request_id": "adce53812e3bbb92c656004875cf973d",
+    "count": 501
 }

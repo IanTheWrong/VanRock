@@ -1,9 +1,19 @@
 {
     "ticker": "IVZ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5312417.0,
+            "vw": 16.0027,
+            "o": 16.26,
+            "c": 15.98,
+            "h": 16.29,
+            "l": 15.79,
+            "t": 1723435200000,
+            "n": 29656
+        },
         {
             "v": 4137626.0,
             "vw": 16.0288,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ac53703bc8d6b45a6b097bfd7ab0a898",
-    "count": 500
+    "request_id": "7ab9690154f846e777e0ec791fa382d0",
+    "count": 501
 }

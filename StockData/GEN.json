@@ -1,9 +1,19 @@
 {
     "ticker": "GEN",
-    "queryCount": 440,
-    "resultsCount": 440,
+    "queryCount": 441,
+    "resultsCount": 441,
     "adjusted": true,
     "results": [
+        {
+            "v": 1934875.0,
+            "vw": 24.6452,
+            "o": 24.94,
+            "c": 24.62,
+            "h": 25.1,
+            "l": 24.45,
+            "t": 1723435200000,
+            "n": 23406
+        },
         {
             "v": 2029692.0,
             "vw": 24.9022,
@@ -4406,6 +4416,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0f4a1e07086a6e683e0099f272127e6c",
-    "count": 440
+    "request_id": "6a24bed766d8d213122bbf9de6b114e8",
+    "count": 441
 }

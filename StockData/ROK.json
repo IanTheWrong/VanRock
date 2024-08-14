@@ -1,9 +1,19 @@
 {
     "ticker": "ROK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 535887,
+            "vw": 253.9905,
+            "o": 256.1,
+            "c": 253.01,
+            "h": 258.44,
+            "l": 251.62,
+            "t": 1723435200000,
+            "n": 15879
+        },
         {
             "v": 607285,
             "vw": 258.3772,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a87f3853bec9264885099509647804d8",
-    "count": 500
+    "request_id": "0879c9b6d8aef6a3cb7b1b0c2cbe9ca9",
+    "count": 501
 }

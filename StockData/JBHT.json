@@ -1,9 +1,19 @@
 {
     "ticker": "JBHT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 499065,
+            "vw": 162.4653,
+            "o": 163.3,
+            "c": 162.77,
+            "h": 164.03,
+            "l": 161.5,
+            "t": 1723435200000,
+            "n": 12481
+        },
         {
             "v": 683407,
             "vw": 162.7888,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9602028a8a34bf043bdd8f330fbbe53b",
-    "count": 500
+    "request_id": "fffca8d5066c9e3e6bb8a56692769728",
+    "count": 501
 }

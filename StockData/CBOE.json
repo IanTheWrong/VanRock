@@ -1,9 +1,19 @@
 {
     "ticker": "CBOE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 491259,
+            "vw": 202.94,
+            "o": 201.54,
+            "c": 203.62,
+            "h": 204.17,
+            "l": 200.47,
+            "t": 1723435200000,
+            "n": 13409
+        },
         {
             "v": 801441,
             "vw": 202.6206,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4d581c79d996c221971b584c9b50b0d7",
-    "count": 500
+    "request_id": "58c658f0d75308d332f98661658a388c",
+    "count": 501
 }

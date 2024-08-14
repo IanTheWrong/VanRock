@@ -1,9 +1,19 @@
 {
     "ticker": "CVS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7795738.0,
+            "vw": 56.2128,
+            "o": 57.21,
+            "c": 55.81,
+            "h": 57.22,
+            "l": 55.6,
+            "t": 1723435200000,
+            "n": 73977
+        },
         {
             "v": 8256175.0,
             "vw": 57.1884,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "59b42efa92bdce0551eb0b750658e07b",
-    "count": 500
+    "request_id": "81ea8d5e79b6ab0aa1cb0b192b2ff5eb",
+    "count": 501
 }

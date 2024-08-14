@@ -1,9 +1,19 @@
 {
     "ticker": "KVUE",
-    "queryCount": 319,
-    "resultsCount": 319,
+    "queryCount": 320,
+    "resultsCount": 320,
     "adjusted": true,
     "results": [
+        {
+            "v": 17435267.0,
+            "vw": 21.0109,
+            "o": 21.08,
+            "c": 21.09,
+            "h": 21.155,
+            "l": 20.84,
+            "t": 1723435200000,
+            "n": 66164
+        },
         {
             "v": 18524053.0,
             "vw": 21.0457,
@@ -3196,6 +3206,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "5317268d4d07c85e61e46a96aac532c9",
-    "count": 319
+    "request_id": "82d7148a104b8f9794a2d5069004dc13",
+    "count": 320
 }

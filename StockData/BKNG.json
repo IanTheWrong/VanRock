@@ -1,9 +1,19 @@
 {
     "ticker": "BKNG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 201446,
+            "vw": 3436.1598,
+            "o": 3442.41,
+            "c": 3439.18,
+            "h": 3471.47,
+            "l": 3399.27,
+            "t": 1723435200000,
+            "n": 15977
+        },
         {
             "v": 249673,
             "vw": 3432.7619,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1f37a3c9787cf20c4126c88efb4d45bf",
-    "count": 500
+    "request_id": "a3e4b9362f77949842c61e9c8e94d567",
+    "count": 501
 }

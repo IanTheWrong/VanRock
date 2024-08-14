@@ -1,9 +1,19 @@
 {
     "ticker": "HLT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1370527.0,
+            "vw": 205.7431,
+            "o": 206.41,
+            "c": 205.59,
+            "h": 207,
+            "l": 204.9,
+            "t": 1723435200000,
+            "n": 29690
+        },
         {
             "v": 1159314.0,
             "vw": 206.3976,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3a3ce50977f6700d1f897988b69e4e66",
-    "count": 500
+    "request_id": "30a6068fc7a5dcbf500105f4c73ce8b2",
+    "count": 501
 }

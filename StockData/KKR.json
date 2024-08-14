@@ -1,9 +1,19 @@
 {
     "ticker": "KKR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1648436.0,
+            "vw": 112.8819,
+            "o": 114,
+            "c": 112.69,
+            "h": 114.39,
+            "l": 112.19,
+            "t": 1723435200000,
+            "n": 31958
+        },
         {
             "v": 1971883.0,
             "vw": 113.4078,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "63bb584f1f6d28080a9d7f64bad8cb02",
-    "count": 500
+    "request_id": "3b18e3449574a19f297f88c2d3f851ed",
+    "count": 501
 }

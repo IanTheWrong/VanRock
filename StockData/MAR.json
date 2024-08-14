@@ -1,9 +1,19 @@
 {
     "ticker": "MAR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1055006.0,
+            "vw": 215.3355,
+            "o": 217.95,
+            "c": 214.68,
+            "h": 217.95,
+            "l": 214.41,
+            "t": 1723435200000,
+            "n": 27066
+        },
         {
             "v": 1179654.0,
             "vw": 217.1677,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3f7ecb1327c363b55f3dda642f2825c6",
-    "count": 500
+    "request_id": "ae6ec7e2e0b4de15418e32ad01a4c4eb",
+    "count": 501
 }

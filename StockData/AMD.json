@@ -1,9 +1,19 @@
 {
     "ticker": "AMD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 39634665.0,
+            "vw": 136.3328,
+            "o": 134.44,
+            "c": 136.77,
+            "h": 137.99,
+            "l": 133.23,
+            "t": 1723435200000,
+            "n": 347667
+        },
         {
             "v": 40412817.0,
             "vw": 134.0612,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "32a2f39d609f7973bf5ca8c31db10508",
-    "count": 500
+    "request_id": "344132c22f6ff07883b402583d19eef1",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "AME",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2136208.0,
+            "vw": 161.2266,
+            "o": 160.78,
+            "c": 160.76,
+            "h": 162.57,
+            "l": 159.94,
+            "t": 1723435200000,
+            "n": 29312
+        },
         {
             "v": 1782176.0,
             "vw": 159.287,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "16d35a7405589e28d9ffac0e4a6c0d20",
-    "count": 500
+    "request_id": "7f893f26e463b4e9a67f59f87b400663",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PNW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 621166,
+            "vw": 85.7088,
+            "o": 85.8,
+            "c": 85.74,
+            "h": 86.27,
+            "l": 85.34,
+            "t": 1723435200000,
+            "n": 10756
+        },
         {
             "v": 842636,
             "vw": 85.7084,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7c931af218371b40ba7b7e4ea1c06d24",
-    "count": 500
+    "request_id": "85ab1177253ef82e2db8a1e9e24caee2",
+    "count": 501
 }

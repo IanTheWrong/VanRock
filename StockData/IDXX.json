@@ -1,9 +1,19 @@
 {
     "ticker": "IDXX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 324594,
+            "vw": 479.8853,
+            "o": 481.31,
+            "c": 479.93,
+            "h": 483.8906,
+            "l": 477.25,
+            "t": 1723435200000,
+            "n": 12063
+        },
         {
             "v": 348406,
             "vw": 483.2219,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9af471ac3657e8fa186ec0a0d144363d",
-    "count": 500
+    "request_id": "40c61a8770cf483f2c99006771aeeebe",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "BSX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3973752.0,
+            "vw": 75.9803,
+            "o": 75.96,
+            "c": 75.94,
+            "h": 76.25,
+            "l": 75.44,
+            "t": 1723435200000,
+            "n": 40468
+        },
         {
             "v": 3729984.0,
             "vw": 75.9545,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f2d655cf87b2246813bde93dab67482f",
-    "count": 500
+    "request_id": "29865fcdfd0285e983d805c9e33dae80",
+    "count": 501
 }

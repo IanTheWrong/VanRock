@@ -1,9 +1,19 @@
 {
     "ticker": "MDT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4202528.0,
+            "vw": 81.2013,
+            "o": 82.03,
+            "c": 81.19,
+            "h": 82.06,
+            "l": 80.81,
+            "t": 1723435200000,
+            "n": 41939
+        },
         {
             "v": 3002050.0,
             "vw": 81.9229,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1407b124e3ee2a2de13b8958864c1d25",
-    "count": 500
+    "request_id": "d9678d6912fdc19b785029b20d93cb09",
+    "count": 501
 }

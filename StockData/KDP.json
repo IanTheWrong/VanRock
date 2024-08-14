@@ -1,9 +1,19 @@
 {
     "ticker": "KDP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5268473.0,
+            "vw": 34.7272,
+            "o": 34.53,
+            "c": 34.8,
+            "h": 34.87,
+            "l": 34.435,
+            "t": 1723435200000,
+            "n": 42999
+        },
         {
             "v": 4192780.0,
             "vw": 34.4519,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a2423c3e15c9c95c9abdb20c06b650f9",
-    "count": 500
+    "request_id": "131968d92a632cb1376ac9eb997f085d",
+    "count": 501
 }

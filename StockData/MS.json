@@ -1,9 +1,19 @@
 {
     "ticker": "MS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4046171.0,
+            "vw": 94.7321,
+            "o": 94.9,
+            "c": 94.84,
+            "h": 95.22,
+            "l": 93.54,
+            "t": 1723435200000,
+            "n": 57074
+        },
         {
             "v": 3499080.0,
             "vw": 94.6569,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "515fd00b8c4bde493cc2483496f848e5",
-    "count": 500
+    "request_id": "b7b0156c613d3f0271da765e6409e4ce",
+    "count": 501
 }

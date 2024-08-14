@@ -1,9 +1,19 @@
 {
     "ticker": "NVR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 34600,
+            "vw": 8578.6282,
+            "o": 8500,
+            "c": 8558.81,
+            "h": 8672.36,
+            "l": 8479,
+            "t": 1723435200000,
+            "n": 6392
+        },
         {
             "v": 20698,
             "vw": 8461.8882,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f17a29cc7d568b7e5ac5210f99531fd0",
-    "count": 500
+    "request_id": "e5875dc0121012964c81e95c70b5add5",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CMS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1837789.0,
+            "vw": 65.6263,
+            "o": 65.33,
+            "c": 65.78,
+            "h": 65.89,
+            "l": 65.24,
+            "t": 1723435200000,
+            "n": 24724
+        },
         {
             "v": 1307324.0,
             "vw": 65.1777,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4a4b33d57b43d28aa077a18b942e872d",
-    "count": 500
+    "request_id": "7cb04d083943a9d4ca0dc39ef73cc112",
+    "count": 501
 }

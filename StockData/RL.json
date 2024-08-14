@@ -1,9 +1,19 @@
 {
     "ticker": "RL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 704261,
+            "vw": 159.2571,
+            "o": 162.35,
+            "c": 159.03,
+            "h": 163.17,
+            "l": 157.84,
+            "t": 1723435200000,
+            "n": 17261
+        },
         {
             "v": 681004,
             "vw": 160.8482,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6de71bd24d99759911119a04e58be3b3",
-    "count": 500
+    "request_id": "8b2cee276ab424495acd77a1383486fd",
+    "count": 501
 }

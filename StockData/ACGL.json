@@ -1,9 +1,19 @@
 {
     "ticker": "ACGL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 726364,
+            "vw": 98.1162,
+            "o": 98.43,
+            "c": 97.97,
+            "h": 99.28,
+            "l": 97.777,
+            "t": 1723435200000,
+            "n": 12920
+        },
         {
             "v": 728453,
             "vw": 98.6101,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "421906e68ee5a8d7238db489c529c825",
-    "count": 500
+    "request_id": "6b601feb68e6afda903f729e5d3c8b2f",
+    "count": 501
 }

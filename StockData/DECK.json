@@ -1,9 +1,19 @@
 {
     "ticker": "DECK",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 344897,
+            "vw": 912.0213,
+            "o": 890.02,
+            "c": 918.3,
+            "h": 918.93,
+            "l": 890.02,
+            "t": 1723435200000,
+            "n": 15362
+        },
         {
             "v": 210433,
             "vw": 885.9719,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "8a792d009c0fd1092fdc069030c44beb",
-    "count": 500
+    "request_id": "27f4fa134ad4912142c658d2e08b6445",
+    "count": 501
 }

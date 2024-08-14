@@ -1,9 +1,19 @@
 {
     "ticker": "MTB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 506564,
+            "vw": 160.3651,
+            "o": 163.23,
+            "c": 160.01,
+            "h": 164.88,
+            "l": 159.23,
+            "t": 1723435200000,
+            "n": 13677
+        },
         {
             "v": 447232,
             "vw": 162.2072,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "76fe4108fa223b3edf6d9e61755939e0",
-    "count": 500
+    "request_id": "3f6697a799fd68351122280b9acf5527",
+    "count": 501
 }

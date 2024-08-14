@@ -1,9 +1,19 @@
 {
     "ticker": "NFLX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2325030.0,
+            "vw": 632.8175,
+            "o": 631,
+            "c": 633.14,
+            "h": 639,
+            "l": 627.07,
+            "t": 1723435200000,
+            "n": 70778
+        },
         {
             "v": 1950860.0,
             "vw": 631.9036,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "19fe82d9930f49b25862bae24c57f806",
-    "count": 500
+    "request_id": "7f722d09d5889009e5d85113e40d7e96",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "BIIB",
-    "queryCount": 499,
-    "resultsCount": 499,
+    "queryCount": 500,
+    "resultsCount": 500,
     "adjusted": true,
     "results": [
+        {
+            "v": 805695,
+            "vw": 200.7555,
+            "o": 202,
+            "c": 201.04,
+            "h": 202.98,
+            "l": 199.41,
+            "t": 1723435200000,
+            "n": 18474
+        },
         {
             "v": 561439,
             "vw": 201.9334,
@@ -4996,6 +5006,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e23ad2e90a1bb477e62ef8f97ee064e1",
-    "count": 499
+    "request_id": "6f7d6c6f1c2c088fdcb8c28de2e9a80c",
+    "count": 500
 }

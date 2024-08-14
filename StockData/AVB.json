@@ -1,9 +1,19 @@
 {
     "ticker": "AVB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 592377,
+            "vw": 209.3766,
+            "o": 210.02,
+            "c": 209.36,
+            "h": 210.05,
+            "l": 207.96,
+            "t": 1723435200000,
+            "n": 11271
+        },
         {
             "v": 377700,
             "vw": 210.0927,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "be02d6bc9ba1c38aa17ce56cb0a753b6",
-    "count": 500
+    "request_id": "3aae3d17e82c111ffc018c35dc5746d1",
+    "count": 501
 }

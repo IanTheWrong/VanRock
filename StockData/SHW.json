@@ -1,9 +1,19 @@
 {
     "ticker": "SHW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1768748.0,
+            "vw": 343.612,
+            "o": 345.39,
+            "c": 343.24,
+            "h": 345.895,
+            "l": 342.05,
+            "t": 1723435200000,
+            "n": 21488
+        },
         {
             "v": 931806,
             "vw": 345.4759,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "861731e6d860b57dfb7eb3dcf540d5f3",
-    "count": 500
+    "request_id": "e53b7674b176890c8e15d316c97b90f3",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "GNRC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 755013,
+            "vw": 142.8862,
+            "o": 144.23,
+            "c": 143.22,
+            "h": 144.23,
+            "l": 141.09,
+            "t": 1723435200000,
+            "n": 15608
+        },
         {
             "v": 890076,
             "vw": 144.0137,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "657a4a27baeda5b595ff978e677703dc",
-    "count": 500
+    "request_id": "0d086f164ea5ac0de3b44469a072ca86",
+    "count": 501
 }

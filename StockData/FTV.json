@@ -1,9 +1,19 @@
 {
     "ticker": "FTV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1230629.0,
+            "vw": 68.3728,
+            "o": 68.94,
+            "c": 68.33,
+            "h": 69.15,
+            "l": 68.1,
+            "t": 1723435200000,
+            "n": 17186
+        },
         {
             "v": 1686237.0,
             "vw": 68.7273,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "770b121d0e59b5064ebdd58256295ea2",
-    "count": 500
+    "request_id": "8d34b169e8d355bfb128280e6db297fa",
+    "count": 501
 }

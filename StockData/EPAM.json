@@ -1,9 +1,19 @@
 {
     "ticker": "EPAM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 715467,
+            "vw": 189.707,
+            "o": 194.835,
+            "c": 189.01,
+            "h": 194.835,
+            "l": 187.255,
+            "t": 1723435200000,
+            "n": 16838
+        },
         {
             "v": 801406,
             "vw": 193.6577,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "bf20268b9e9dba68ccc121e708bc2ce7",
-    "count": 500
+    "request_id": "7544a8536740b6a032615ca80ab80bac",
+    "count": 501
 }

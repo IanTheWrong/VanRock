@@ -1,9 +1,19 @@
 {
     "ticker": "ODFL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1495447.0,
+            "vw": 190.8849,
+            "o": 193.37,
+            "c": 190.62,
+            "h": 193.84,
+            "l": 189.21,
+            "t": 1723435200000,
+            "n": 26102
+        },
         {
             "v": 2152137.0,
             "vw": 192.3035,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f6f197f35347cbfae500b84fb5389ffc",
-    "count": 500
+    "request_id": "af043af7da8075a9a20487a89b7b3723",
+    "count": 501
 }

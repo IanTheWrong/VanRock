@@ -1,9 +1,19 @@
 {
     "ticker": "ALL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 983182,
+            "vw": 171.4295,
+            "o": 172.84,
+            "c": 171.36,
+            "h": 173.03,
+            "l": 170.54,
+            "t": 1723435200000,
+            "n": 16689
+        },
         {
             "v": 966613,
             "vw": 171.0785,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1f669ca715bd0e7e05330838a153dc0f",
-    "count": 500
+    "request_id": "c267e4b3939b78ede5d1c2b2704880cd",
+    "count": 501
 }

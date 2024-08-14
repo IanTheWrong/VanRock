@@ -1,9 +1,19 @@
 {
     "ticker": "HSY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1947881.0,
+            "vw": 198.5229,
+            "o": 199.17,
+            "c": 198.67,
+            "h": 199.95,
+            "l": 197.445,
+            "t": 1723435200000,
+            "n": 31561
+        },
         {
             "v": 1258823.0,
             "vw": 200.6705,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "578af68c0b16f52e343940376db27e9d",
-    "count": 500
+    "request_id": "0d4ac6e3aaccebce1659ec854b689428",
+    "count": 501
 }

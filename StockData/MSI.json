@@ -1,9 +1,19 @@
 {
     "ticker": "MSI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 477526,
+            "vw": 412.4449,
+            "o": 410.76,
+            "c": 412.76,
+            "h": 414.03,
+            "l": 408.92,
+            "t": 1723435200000,
+            "n": 13423
+        },
         {
             "v": 328526,
             "vw": 410.4447,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6668370155198293d1bb41f056f1d24d",
-    "count": 500
+    "request_id": "3da9d216fa01e887bdcb6c222b11c37a",
+    "count": 501
 }

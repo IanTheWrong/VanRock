@@ -1,9 +1,19 @@
 {
     "ticker": "PEP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3746752.0,
+            "vw": 171.5661,
+            "o": 172.24,
+            "c": 171.42,
+            "h": 172.87,
+            "l": 170.705,
+            "t": 1723435200000,
+            "n": 62529
+        },
         {
             "v": 3048859.0,
             "vw": 171.8583,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2c830733b3ec96f86ad79b3a292b1554",
-    "count": 500
+    "request_id": "bcc321f5c1305a3d4611af2c581b4778",
+    "count": 501
 }

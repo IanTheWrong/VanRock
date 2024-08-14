@@ -1,9 +1,19 @@
 {
     "ticker": "NEM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6027019.0,
+            "vw": 48.7336,
+            "o": 48,
+            "c": 48.79,
+            "h": 49.14,
+            "l": 47.98,
+            "t": 1723435200000,
+            "n": 63974
+        },
         {
             "v": 3570439.0,
             "vw": 47.6078,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0248ee096ad0ab2a1d7b2909b2dfc275",
-    "count": 500
+    "request_id": "9fea66f7b50995a3ce70b4303e873c29",
+    "count": 501
 }

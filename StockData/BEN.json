@@ -1,9 +1,19 @@
 {
     "ticker": "BEN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2286248.0,
+            "vw": 21.6312,
+            "o": 22.2,
+            "c": 21.51,
+            "h": 22.23,
+            "l": 21.46,
+            "t": 1723435200000,
+            "n": 19061
+        },
         {
             "v": 2880372.0,
             "vw": 22.0927,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6acd256a5e04f0adf4136d50b9ca7648",
-    "count": 500
+    "request_id": "7cecde56bdc3a2b023fbdde66174bd30",
+    "count": 501
 }

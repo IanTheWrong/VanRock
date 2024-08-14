@@ -1,9 +1,19 @@
 {
     "ticker": "ICE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2692405.0,
+            "vw": 153.8893,
+            "o": 154,
+            "c": 153.89,
+            "h": 154.63,
+            "l": 152.98,
+            "t": 1723435200000,
+            "n": 26745
+        },
         {
             "v": 2759513.0,
             "vw": 153.7092,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9c7447957c215991326ec1ebc2d7151f",
-    "count": 500
+    "request_id": "ab502b623b215b0b0e852e55e84d9e28",
+    "count": 501
 }

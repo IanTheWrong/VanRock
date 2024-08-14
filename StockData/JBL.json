@@ -1,9 +1,19 @@
 {
     "ticker": "JBL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 773872,
+            "vw": 102.1948,
+            "o": 102.68,
+            "c": 102.02,
+            "h": 103.34,
+            "l": 101.48,
+            "t": 1723435200000,
+            "n": 14547
+        },
         {
             "v": 675264,
             "vw": 101.8701,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6a3301a19890a7d3012b8639ce51848a",
-    "count": 500
+    "request_id": "919e74fed7db5fbcfde9db524ba6d430",
+    "count": 501
 }

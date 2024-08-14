@@ -1,9 +1,19 @@
 {
     "ticker": "LULU",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1399740.0,
+            "vw": 239.4978,
+            "o": 239.925,
+            "c": 239.7,
+            "h": 240.82,
+            "l": 236.55,
+            "t": 1723435200000,
+            "n": 33539
+        },
         {
             "v": 1282809.0,
             "vw": 239.1036,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "8c08f18cace7ae19716e57a81473a4ce",
-    "count": 500
+    "request_id": "d0867a51fdd355bb6516d69f631ad68b",
+    "count": 501
 }

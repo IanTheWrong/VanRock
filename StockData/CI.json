@@ -1,9 +1,19 @@
 {
     "ticker": "CI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1706959.0,
+            "vw": 328.9705,
+            "o": 330.96,
+            "c": 328.1,
+            "h": 331.78,
+            "l": 326.46,
+            "t": 1723435200000,
+            "n": 27368
+        },
         {
             "v": 958086,
             "vw": 336.077,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "739ed4f3eaa3d1ccc62283db15118fd7",
-    "count": 500
+    "request_id": "42fa386d9ccd7d8174eb211168e4cbc9",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CVX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8350690.0,
+            "vw": 144.904,
+            "o": 145.84,
+            "c": 145.02,
+            "h": 146.7381,
+            "l": 139.69,
+            "t": 1723435200000,
+            "n": 127345
+        },
         {
             "v": 7570336.0,
             "vw": 144.8108,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7bd4097d8fab40da631d075a05743e20",
-    "count": 500
+    "request_id": "36a79be197176c28ee7dfefc9bdebf0b",
+    "count": 501
 }

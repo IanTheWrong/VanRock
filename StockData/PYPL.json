@@ -1,9 +1,19 @@
 {
     "ticker": "PYPL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7480912.0,
+            "vw": 64.0572,
+            "o": 64.95,
+            "c": 63.46,
+            "h": 65.13,
+            "l": 63.285,
+            "t": 1723435200000,
+            "n": 91594
+        },
         {
             "v": 8547116.0,
             "vw": 64.8824,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "699b913608a6a828d941be5f125a5844",
-    "count": 500
+    "request_id": "2a0579426d2187717e4b6e625615cbaa",
+    "count": 501
 }

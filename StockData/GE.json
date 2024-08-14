@@ -1,9 +1,19 @@
 {
     "ticker": "GE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3102133.0,
+            "vw": 166.6319,
+            "o": 167.63,
+            "c": 166.87,
+            "h": 168.78,
+            "l": 164.62,
+            "t": 1723435200000,
+            "n": 48844
+        },
         {
             "v": 2609231.0,
             "vw": 166.7898,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3f7691965eb3fd0075b71c7268dc3599",
-    "count": 500
+    "request_id": "1106b94a49523080fbc93bcca0fe417b",
+    "count": 501
 }

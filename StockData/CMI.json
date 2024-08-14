@@ -1,9 +1,19 @@
 {
     "ticker": "CMI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 729972,
+            "vw": 291.5875,
+            "o": 296.05,
+            "c": 290.94,
+            "h": 296.05,
+            "l": 289.87,
+            "t": 1723435200000,
+            "n": 16256
+        },
         {
             "v": 587456,
             "vw": 295.3359,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "84bc116e212bab9b39752a97957316fe",
-    "count": 500
+    "request_id": "2908c406467bc1f063c62153cd9a1472",
+    "count": 501
 }

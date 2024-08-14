@@ -1,9 +1,19 @@
 {
     "ticker": "RVTY",
-    "queryCount": 311,
-    "resultsCount": 311,
+    "queryCount": 312,
+    "resultsCount": 312,
     "adjusted": true,
     "results": [
+        {
+            "v": 476800,
+            "vw": 117.7021,
+            "o": 118.75,
+            "c": 117.98,
+            "h": 118.75,
+            "l": 116.62,
+            "t": 1723435200000,
+            "n": 12322
+        },
         {
             "v": 498679,
             "vw": 118.6503,
@@ -3116,6 +3126,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a082275289b186b427b17425697c7cfe",
-    "count": 311
+    "request_id": "360bcdcaa3696e661f4406c8b7f3aeda",
+    "count": 312
 }

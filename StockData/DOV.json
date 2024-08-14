@@ -1,9 +1,19 @@
 {
     "ticker": "DOV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 419288,
+            "vw": 174.5926,
+            "o": 176.3,
+            "c": 174.37,
+            "h": 176.66,
+            "l": 173.78,
+            "t": 1723435200000,
+            "n": 10262
+        },
         {
             "v": 625516,
             "vw": 175.9554,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "053f57ff852f953c12c15605673bcdf7",
-    "count": 500
+    "request_id": "f284ea54c4bc02f09d038a25cb35ccea",
+    "count": 501
 }

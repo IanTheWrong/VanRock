@@ -1,9 +1,19 @@
 {
     "ticker": "MET",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3093152.0,
+            "vw": 70.1855,
+            "o": 70.54,
+            "c": 69.85,
+            "h": 70.98,
+            "l": 69.69,
+            "t": 1723435200000,
+            "n": 36823
+        },
         {
             "v": 1977335.0,
             "vw": 69.9489,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2f0c08ddd87574365c942874b49791eb",
-    "count": 500
+    "request_id": "b120aef6350db73efc69ba9e9a9666ee",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "MPWR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 316224,
+            "vw": 824.6165,
+            "o": 823.77,
+            "c": 823.95,
+            "h": 839.84,
+            "l": 816.86,
+            "t": 1723435200000,
+            "n": 16879
+        },
         {
             "v": 437419,
             "vw": 822.6727,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "61090056ad012aa89edb2b6b7bcd3768",
-    "count": 500
+    "request_id": "500a8a305c0c51da46f88a21aeaaccee",
+    "count": 501
 }

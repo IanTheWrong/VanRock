@@ -1,9 +1,19 @@
 {
     "ticker": "FICO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 143558,
+            "vw": 1724.0804,
+            "o": 1755.8,
+            "c": 1720,
+            "h": 1755.8,
+            "l": 1710.41,
+            "t": 1723435200000,
+            "n": 11473
+        },
         {
             "v": 195718,
             "vw": 1747.3217,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a245eebec019766ad2e3d2a4cdef42cd",
-    "count": 500
+    "request_id": "70aecfd52b4b6213152e587f146b1b54",
+    "count": 501
 }

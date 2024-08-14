@@ -1,9 +1,19 @@
 {
     "ticker": "COR",
-    "queryCount": 238,
-    "resultsCount": 238,
+    "queryCount": 239,
+    "resultsCount": 239,
     "adjusted": true,
     "results": [
+        {
+            "v": 835435,
+            "vw": 238.1953,
+            "o": 237.19,
+            "c": 237.77,
+            "h": 240.1,
+            "l": 236.27,
+            "t": 1723435200000,
+            "n": 22100
+        },
         {
             "v": 1196277.0,
             "vw": 237.3639,
@@ -2386,6 +2396,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a982a667d764b928d1864c4e958056c0",
-    "count": 238
+    "request_id": "f8c7bdcb68af82ecccbe2f5e851b3d1e",
+    "count": 239
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "AMP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 448835,
+            "vw": 404.299,
+            "o": 405.99,
+            "c": 404.54,
+            "h": 406.9,
+            "l": 401.1412,
+            "t": 1723435200000,
+            "n": 13719
+        },
         {
             "v": 304810,
             "vw": 404.1182,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6eacc1425d85c5657ed21b3496aab0e1",
-    "count": 500
+    "request_id": "c8475480087637b085edaa51ae72341b",
+    "count": 501
 }

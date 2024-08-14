@@ -1,9 +1,19 @@
 {
     "ticker": "NDSN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 143557,
+            "vw": 233.5354,
+            "o": 234.64,
+            "c": 233.04,
+            "h": 235.045,
+            "l": 232.16,
+            "t": 1723435200000,
+            "n": 6359
+        },
         {
             "v": 169441,
             "vw": 234.7799,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "87ba358aaa435f1e6d11c1a53ee3cfc0",
-    "count": 500
+    "request_id": "b7833327430fd0a37ae2c69d9feaefde",
+    "count": 501
 }

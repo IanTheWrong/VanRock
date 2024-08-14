@@ -1,9 +1,19 @@
 {
     "ticker": "CEG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2132877.0,
+            "vw": 187.3325,
+            "o": 190,
+            "c": 187.33,
+            "h": 190.83,
+            "l": 183.7,
+            "t": 1723435200000,
+            "n": 34680
+        },
         {
             "v": 3073420.0,
             "vw": 188.3844,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "43cc64893d386bd10a8cc16a7d87b917",
-    "count": 500
+    "request_id": "71e1f562c91fff7b367177fc46c1864f",
+    "count": 501
 }

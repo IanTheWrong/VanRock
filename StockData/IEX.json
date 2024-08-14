@@ -1,9 +1,19 @@
 {
     "ticker": "IEX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 292731,
+            "vw": 191.9214,
+            "o": 194,
+            "c": 191.3,
+            "h": 194.39,
+            "l": 191.02,
+            "t": 1723435200000,
+            "n": 9186
+        },
         {
             "v": 331129,
             "vw": 194.016,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "709b73508d0feff139f9b49e82bdd544",
-    "count": 500
+    "request_id": "3098dae5f0812101ca7bac0eba206893",
+    "count": 501
 }

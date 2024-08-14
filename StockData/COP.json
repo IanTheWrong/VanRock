@@ -1,9 +1,19 @@
 {
     "ticker": "COP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5805126.0,
+            "vw": 109.6986,
+            "o": 108.45,
+            "c": 110.03,
+            "h": 110.23,
+            "l": 108.28,
+            "t": 1723435200000,
+            "n": 76040
+        },
         {
             "v": 5706238.0,
             "vw": 108.4259,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "fef4c8136b2f106643f1d99c3784cf58",
-    "count": 500
+    "request_id": "41b168faff9ff83813f231a9cf1d5170",
+    "count": 501
 }

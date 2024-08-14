@@ -1,9 +1,19 @@
 {
     "ticker": "AXP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1728277.0,
+            "vw": 237.1839,
+            "o": 238.2,
+            "c": 237.05,
+            "h": 238.99,
+            "l": 235.395,
+            "t": 1723435200000,
+            "n": 41459
+        },
         {
             "v": 1944480.0,
             "vw": 237.0514,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a3eb3f2cd85a69eea2523a3287570655",
-    "count": 500
+    "request_id": "5c500729fefde3a275d1be0848cc1f3b",
+    "count": 501
 }

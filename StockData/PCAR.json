@@ -1,9 +1,19 @@
 {
     "ticker": "PCAR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3250265.0,
+            "vw": 92.301,
+            "o": 92.5,
+            "c": 92.17,
+            "h": 92.87,
+            "l": 91.37,
+            "t": 1723435200000,
+            "n": 30730
+        },
         {
             "v": 2167281.0,
             "vw": 92.9131,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d48c5a8f60fa1cba74204dd826e49e65",
-    "count": 500
+    "request_id": "1d41f01023bacdf177a21ce2fce19c5f",
+    "count": 501
 }

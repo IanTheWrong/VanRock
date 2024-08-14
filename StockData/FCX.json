@@ -1,9 +1,19 @@
 {
     "ticker": "FCX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8898623.0,
+            "vw": 41.5607,
+            "o": 41.64,
+            "c": 41.56,
+            "h": 41.95,
+            "l": 41.21,
+            "t": 1723435200000,
+            "n": 70723
+        },
         {
             "v": 9067670.0,
             "vw": 41.058,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "95d01a2beada2d125b4a9c16f76c5203",
-    "count": 500
+    "request_id": "53e6a8a34d79fc5523b1313953406688",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "MMM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2552552.0,
+            "vw": 123.2274,
+            "o": 124,
+            "c": 123.36,
+            "h": 124.0899,
+            "l": 122.54,
+            "t": 1723435200000,
+            "n": 43848
+        },
         {
             "v": 3222466.0,
             "vw": 124.0431,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "02b4100204524d955220f5ffdc022c78",
-    "count": 500
+    "request_id": "bc4c09a7bb6eeef11d22dd59d6ed06f4",
+    "count": 501
 }

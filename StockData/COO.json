@@ -1,9 +1,19 @@
 {
     "ticker": "COO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1422830.0,
+            "vw": 92.1289,
+            "o": 92.7,
+            "c": 90.97,
+            "h": 93.14,
+            "l": 90.645,
+            "t": 1723435200000,
+            "n": 15807
+        },
         {
             "v": 532367,
             "vw": 92.8608,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4929709eb7c6ed0ea2d13726e51d1606",
-    "count": 500
+    "request_id": "7a3506928cd57e949f36455aee646104",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "APA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4228199.0,
+            "vw": 29.0673,
+            "o": 28.39,
+            "c": 29.19,
+            "h": 29.285,
+            "l": 28.39,
+            "t": 1723435200000,
+            "n": 38661
+        },
         {
             "v": 4033407.0,
             "vw": 28.3649,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "273fd33d8f9547fe62dc26f9a212ab02",
-    "count": 500
+    "request_id": "595c64764650288b90a5c80a593b9924",
+    "count": 501
 }

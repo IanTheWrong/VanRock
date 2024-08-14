@@ -1,9 +1,19 @@
 {
     "ticker": "CTSH",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3120354.0,
+            "vw": 73.3796,
+            "o": 74.41,
+            "c": 73.14,
+            "h": 74.62,
+            "l": 73.1,
+            "t": 1723435200000,
+            "n": 31433
+        },
         {
             "v": 6799949.0,
             "vw": 74.2369,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2cfc548db6b9ba4df471c1a0a90571f3",
-    "count": 500
+    "request_id": "4dc0b48df16ce463759786727c89e122",
+    "count": 501
 }

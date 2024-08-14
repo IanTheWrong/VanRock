@@ -1,9 +1,19 @@
 {
     "ticker": "LEN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1423364.0,
+            "vw": 168.5006,
+            "o": 169.9,
+            "c": 167.94,
+            "h": 170.19,
+            "l": 167.09,
+            "t": 1723435200000,
+            "n": 24366
+        },
         {
             "v": 1594736.0,
             "vw": 169.8463,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "42309bc243554235c10020774964701e",
-    "count": 500
+    "request_id": "b6eb44e0663cd4c83cb85b93a8637278",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CPAY",
-    "queryCount": 96,
-    "resultsCount": 96,
+    "queryCount": 97,
+    "resultsCount": 97,
     "adjusted": true,
     "results": [
+        {
+            "v": 397253,
+            "vw": 280.1162,
+            "o": 284.39,
+            "c": 278.25,
+            "h": 285.02,
+            "l": 278.19,
+            "t": 1723435200000,
+            "n": 11643
+        },
         {
             "v": 470418,
             "vw": 283.2865,
@@ -966,6 +976,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7ffb443a6bc454db62f58a1d3e803902",
-    "count": 96
+    "request_id": "810ba47d8145af8b78ac1e5bcff2558e",
+    "count": 97
 }

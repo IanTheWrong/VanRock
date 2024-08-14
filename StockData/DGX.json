@@ -1,9 +1,19 @@
 {
     "ticker": "DGX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 684931,
+            "vw": 149.888,
+            "o": 149,
+            "c": 150.42,
+            "h": 150.56,
+            "l": 148.735,
+            "t": 1723435200000,
+            "n": 15122
+        },
         {
             "v": 665536,
             "vw": 149.6009,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "009fabdb2ee9b3a82fdeb1b2c9ac312a",
-    "count": 500
+    "request_id": "5262a36f8163bda3e8df717203066ccd",
+    "count": 501
 }

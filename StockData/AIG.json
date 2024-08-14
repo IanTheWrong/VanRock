@@ -1,9 +1,19 @@
 {
     "ticker": "AIG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3699049.0,
+            "vw": 71.689,
+            "o": 72.35,
+            "c": 71.61,
+            "h": 72.72,
+            "l": 71.39,
+            "t": 1723435200000,
+            "n": 38010
+        },
         {
             "v": 3199832.0,
             "vw": 71.9583,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c632cf16915fe3d8790be7810e487017",
-    "count": 500
+    "request_id": "44ba34deba44d743b02daea1112b68ff",
+    "count": 501
 }

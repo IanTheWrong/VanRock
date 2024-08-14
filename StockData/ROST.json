@@ -1,9 +1,19 @@
 {
     "ticker": "ROST",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1702336.0,
+            "vw": 140.3667,
+            "o": 140.14,
+            "c": 140.67,
+            "h": 141.155,
+            "l": 139.105,
+            "t": 1723435200000,
+            "n": 28711
+        },
         {
             "v": 1204697.0,
             "vw": 139.3982,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9f764126e3803846942319b14038eb78",
-    "count": 500
+    "request_id": "d1ef16f50c7a5db55e4385fc37c60828",
+    "count": 501
 }

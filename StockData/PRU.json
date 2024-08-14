@@ -1,9 +1,19 @@
 {
     "ticker": "PRU",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1092502.0,
+            "vw": 108.8113,
+            "o": 110.48,
+            "c": 108.4,
+            "h": 110.81,
+            "l": 108.172,
+            "t": 1723435200000,
+            "n": 22186
+        },
         {
             "v": 1088117.0,
             "vw": 109.2361,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2c0ea0b1dd888dd0d62cace539463480",
-    "count": 500
+    "request_id": "50187e57577745e2bfbc285dbae0b5c2",
+    "count": 501
 }

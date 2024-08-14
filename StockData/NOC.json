@@ -1,9 +1,19 @@
 {
     "ticker": "NOC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 891011,
+            "vw": 499.4761,
+            "o": 495.49,
+            "c": 501.66,
+            "h": 502.69,
+            "l": 492,
+            "t": 1723435200000,
+            "n": 22794
+        },
         {
             "v": 511844,
             "vw": 492.5806,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "09749d58124edd6170e8efdcea2f4e80",
-    "count": 500
+    "request_id": "f844307ff53d26eb14682c7ad023cddd",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "EXC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6530493.0,
+            "vw": 36.9346,
+            "o": 37.02,
+            "c": 36.9,
+            "h": 37.115,
+            "l": 36.77,
+            "t": 1723435200000,
+            "n": 48960
+        },
         {
             "v": 6608906.0,
             "vw": 37.3881,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "adc1d9164092d32dec811ae92f540d47",
-    "count": 500
+    "request_id": "b1ec676efcf040574df189e3e079690f",
+    "count": 501
 }

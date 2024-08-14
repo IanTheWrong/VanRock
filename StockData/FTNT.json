@@ -1,9 +1,19 @@
 {
     "ticker": "FTNT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6156485.0,
+            "vw": 70.516,
+            "o": 69.8,
+            "c": 70.36,
+            "h": 71.54,
+            "l": 69.4,
+            "t": 1723435200000,
+            "n": 75339
+        },
         {
             "v": 6589328.0,
             "vw": 69.3998,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d8ee59426c830d935623e365c49525e6",
-    "count": 500
+    "request_id": "910b0513958bba464ca855d3fa9c2a8e",
+    "count": 501
 }

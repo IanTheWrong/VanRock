@@ -1,9 +1,19 @@
 {
     "ticker": "SBAC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 808727,
+            "vw": 214.6475,
+            "o": 213.86,
+            "c": 216.18,
+            "h": 216.37,
+            "l": 212.58,
+            "t": 1723435200000,
+            "n": 16758
+        },
         {
             "v": 727646,
             "vw": 214.1852,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "5b44807376387c7c05a89ebf5657938c",
-    "count": 500
+    "request_id": "4444634c9d6639b06b9ba4b767e0e420",
+    "count": 501
 }

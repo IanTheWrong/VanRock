@@ -1,9 +1,19 @@
 {
     "ticker": "PTC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 438350,
+            "vw": 170.5245,
+            "o": 173.5,
+            "c": 170.19,
+            "h": 174.04,
+            "l": 169.77,
+            "t": 1723435200000,
+            "n": 11863
+        },
         {
             "v": 727113,
             "vw": 172.4482,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0ff6fbe453aa48cada46bfcc4dc74872",
-    "count": 500
+    "request_id": "7efde6dbaba94e2b48c5b4809abe820c",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "AMAT",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4847979.0,
+            "vw": 193.1521,
+            "o": 191.5,
+            "c": 193.09,
+            "h": 196.4,
+            "l": 190.35,
+            "t": 1723435200000,
+            "n": 71022
+        },
         {
             "v": 4987583.0,
             "vw": 191.0035,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4e40b79a812b42a97c7fff6bd474cd57",
-    "count": 500
+    "request_id": "ab8061d609fc6f44d5e431345442c473",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "NSC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 693902,
+            "vw": 237.3143,
+            "o": 240.14,
+            "c": 237.18,
+            "h": 240.9,
+            "l": 236.24,
+            "t": 1723435200000,
+            "n": 12464
+        },
         {
             "v": 684623,
             "vw": 239.6247,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "953c857a4ee47d9dd05f10115524a72b",
-    "count": 500
+    "request_id": "96448ff2d86a7c2aa5bab33a3483a642",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "HBAN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 12078925.0,
+            "vw": 13.472,
+            "o": 13.72,
+            "c": 13.38,
+            "h": 13.889,
+            "l": 13.335,
+            "t": 1723435200000,
+            "n": 40345
+        },
         {
             "v": 11520644.0,
             "vw": 13.5927,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "10e8fcaa2eb70b5125ae6bcd2d7e94e6",
-    "count": 500
+    "request_id": "f826ecace2c9f437ec3e2fe5cbaa7d4e",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3610683.0,
+            "vw": 101.1299,
+            "o": 101.85,
+            "c": 101.28,
+            "h": 101.93,
+            "l": 100.59,
+            "t": 1723435200000,
+            "n": 52508
+        },
         {
             "v": 3565369.0,
             "vw": 102.1444,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "758b71e009d384f5d05a2362f6e9d3c2",
-    "count": 500
+    "request_id": "ede2e04eeb6097f7f0d9561477ab244f",
+    "count": 501
 }

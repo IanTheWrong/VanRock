@@ -1,9 +1,19 @@
 {
     "ticker": "NTRS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1196349.0,
+            "vw": 83.1375,
+            "o": 84.36,
+            "c": 82.51,
+            "h": 84.745,
+            "l": 82.34,
+            "t": 1723435200000,
+            "n": 19150
+        },
         {
             "v": 948539,
             "vw": 84.1421,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "a3f73daeccd78c3de9857961d8022cb5",
-    "count": 500
+    "request_id": "a20bff4bf8f41cb41324dabb6fccdc12",
+    "count": 501
 }

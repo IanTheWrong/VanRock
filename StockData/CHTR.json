@@ -1,9 +1,19 @@
 {
     "ticker": "CHTR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 973647,
+            "vw": 353.0835,
+            "o": 364.41,
+            "c": 350.76,
+            "h": 365.475,
+            "l": 350.0348,
+            "t": 1723435200000,
+            "n": 28546
+        },
         {
             "v": 707961,
             "vw": 364.0487,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "170cc29186ab978722ed264ba2eae836",
-    "count": 500
+    "request_id": "d148ec1da36ede334c855dfd01773266",
+    "count": 501
 }

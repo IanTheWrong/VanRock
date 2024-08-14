@@ -1,9 +1,19 @@
 {
     "ticker": "COF",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1781893.0,
+            "vw": 132.6307,
+            "o": 134.26,
+            "c": 132.12,
+            "h": 135.165,
+            "l": 131.88,
+            "t": 1723435200000,
+            "n": 27876
+        },
         {
             "v": 1311689.0,
             "vw": 134.5199,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "984a9b2d4e97659f5e247e1bc75cf3e3",
-    "count": 500
+    "request_id": "289bccfc1b66468cb9dc8c4011b71e38",
+    "count": 501
 }

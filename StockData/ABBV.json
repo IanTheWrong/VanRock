@@ -1,9 +1,19 @@
 {
     "ticker": "ABBV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4733581.0,
+            "vw": 189.86,
+            "o": 190.08,
+            "c": 190.18,
+            "h": 190.57,
+            "l": 187.7,
+            "t": 1723435200000,
+            "n": 53829
+        },
         {
             "v": 3017743.0,
             "vw": 189.4415,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "dca8a75714cb22cfa3acd01c1374467e",
-    "count": 500
+    "request_id": "bd82ed437b1a0aa476dc9ae67c8cc885",
+    "count": 501
 }

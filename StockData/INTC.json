@@ -1,9 +1,19 @@
 {
     "ticker": "INTC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 54094506.0,
+            "vw": 19.4946,
+            "o": 19.87,
+            "c": 19.36,
+            "h": 19.97,
+            "l": 19,
+            "t": 1723435200000,
+            "n": 242055
+        },
         {
             "v": 75223872.0,
             "vw": 19.7728,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "322389379fe577da590547e3c044f1a9",
-    "count": 500
+    "request_id": "8b816fc2f4aa043d98cd43b410438044",
+    "count": 501
 }

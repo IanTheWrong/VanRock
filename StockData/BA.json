@@ -1,9 +1,19 @@
 {
     "ticker": "BA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4691736.0,
+            "vw": 164.8638,
+            "o": 167.73,
+            "c": 164.13,
+            "h": 168.05,
+            "l": 163.519,
+            "t": 1723435200000,
+            "n": 71235
+        },
         {
             "v": 3502235.0,
             "vw": 167.8804,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3694d7fcff219b415ad9e4a34ff1fc55",
-    "count": 500
+    "request_id": "8305ce46a8823ecd2840a8fd173a45f6",
+    "count": 501
 }

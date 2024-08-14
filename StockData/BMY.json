@@ -1,9 +1,19 @@
 {
     "ticker": "BMY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 10131396.0,
+            "vw": 46.962,
+            "o": 46.77,
+            "c": 47.06,
+            "h": 47.465,
+            "l": 46.48,
+            "t": 1723435200000,
+            "n": 89753
+        },
         {
             "v": 13821460.0,
             "vw": 46.9228,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "706da1df9a3ceb85861781077cd6feef",
-    "count": 500
+    "request_id": "714fb196c2d2dc35275f7b1b94717569",
+    "count": 501
 }

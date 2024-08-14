@@ -1,9 +1,19 @@
 {
     "ticker": "PSA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 566949,
+            "vw": 313.7753,
+            "o": 316.41,
+            "c": 314.34,
+            "h": 316.41,
+            "l": 311.27,
+            "t": 1723435200000,
+            "n": 14964
+        },
         {
             "v": 541575,
             "vw": 316.4416,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c53a007bf900dbbfbf3556743c18ab13",
-    "count": 500
+    "request_id": "a2522918f6eba677edd41280a435a479",
+    "count": 501
 }

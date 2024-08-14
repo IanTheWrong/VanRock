@@ -1,9 +1,19 @@
 {
     "ticker": "PPL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6295238.0,
+            "vw": 30.6984,
+            "o": 30.6,
+            "c": 30.83,
+            "h": 30.855,
+            "l": 30.44,
+            "t": 1723435200000,
+            "n": 42357
+        },
         {
             "v": 3798918.0,
             "vw": 30.4324,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0f1f50437323771829dbe8db8da48678",
-    "count": 500
+    "request_id": "1c50d84fbe0db89b8cdab949c82056db",
+    "count": 501
 }

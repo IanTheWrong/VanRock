@@ -1,9 +1,19 @@
 {
     "ticker": "NWS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 492194,
+            "vw": 28.1847,
+            "o": 28.68,
+            "c": 28.1,
+            "h": 29.05,
+            "l": 28.035,
+            "t": 1723435200000,
+            "n": 11556
+        },
         {
             "v": 717056,
             "vw": 28.5989,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d9caf4175a89bfacb445d978d0283d32",
-    "count": 500
+    "request_id": "0950e23bda845b5f5e948bc803bf5793",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PFG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 854807,
+            "vw": 74.6259,
+            "o": 74.89,
+            "c": 74.39,
+            "h": 75.5,
+            "l": 74.28,
+            "t": 1723435200000,
+            "n": 15388
+        },
         {
             "v": 878585,
             "vw": 74.6972,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "36491ddd0c70240c06f0d44fa51f1710",
-    "count": 500
+    "request_id": "40be031a3cbb4e4a209ac4585a64db55",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CTAS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 294604,
+            "vw": 757.8025,
+            "o": 751.68,
+            "c": 759.63,
+            "h": 759.72,
+            "l": 749.96,
+            "t": 1723435200000,
+            "n": 12520
+        },
         {
             "v": 202094,
             "vw": 752.757,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9dc00fd0d4785de4929330fb53f39e79",
-    "count": 500
+    "request_id": "e5d090f24059e535801192f0a5ac8dcc",
+    "count": 501
 }

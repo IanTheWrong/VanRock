@@ -1,9 +1,19 @@
 {
     "ticker": "DVA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 699026,
+            "vw": 143.3007,
+            "o": 139.93,
+            "c": 143.63,
+            "h": 144.59,
+            "l": 139.66,
+            "t": 1723435200000,
+            "n": 17307
+        },
         {
             "v": 568960,
             "vw": 139.6132,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "cd20f4d36f6971b0dbd5ccd7febbbce2",
-    "count": 500
+    "request_id": "f3f89f9cb1ed72fb68945e442203553c",
+    "count": 501
 }

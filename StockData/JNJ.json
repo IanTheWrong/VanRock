@@ -1,9 +1,19 @@
 {
     "ticker": "JNJ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 7396958.0,
+            "vw": 159.9393,
+            "o": 160.97,
+            "c": 159.88,
+            "h": 161.7,
+            "l": 158.71,
+            "t": 1723435200000,
+            "n": 114680
+        },
         {
             "v": 4351397.0,
             "vw": 160.421,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "63f0d00ff1e782d0ac4bb785abbd9fb0",
-    "count": 500
+    "request_id": "02410643fd5b0659d25d7e95620db38d",
+    "count": 501
 }

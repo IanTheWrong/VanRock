@@ -1,9 +1,19 @@
 {
     "ticker": "ORLY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 386137,
+            "vw": 1117.3979,
+            "o": 1120.62,
+            "c": 1121.07,
+            "h": 1125.475,
+            "l": 1110.41,
+            "t": 1723435200000,
+            "n": 18204
+        },
         {
             "v": 199186,
             "vw": 1121.8451,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "48ee622dc69b5f192c881390eb097733",
-    "count": 500
+    "request_id": "6f21700a1ecef17ae4f21f19052723e3",
+    "count": 501
 }

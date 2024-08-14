@@ -1,9 +1,19 @@
 {
     "ticker": "PCG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 9195831.0,
+            "vw": 18.1903,
+            "o": 18.21,
+            "c": 18.23,
+            "h": 18.245,
+            "l": 18.065,
+            "t": 1723435200000,
+            "n": 36219
+        },
         {
             "v": 9673576.0,
             "vw": 18.1546,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "fba06b5c760033c6b3a17db6a13ab9d3",
-    "count": 500
+    "request_id": "d4be410fbe2b5a5307b060f41f3d2863",
+    "count": 501
 }

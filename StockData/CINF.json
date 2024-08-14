@@ -1,9 +1,19 @@
 {
     "ticker": "CINF",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 270184,
+            "vw": 127.3309,
+            "o": 128.04,
+            "c": 126.86,
+            "h": 128.54,
+            "l": 126.8,
+            "t": 1723435200000,
+            "n": 7472
+        },
         {
             "v": 290604,
             "vw": 127.8969,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "109a93055ae823883dc7dd1e372a9439",
-    "count": 500
+    "request_id": "1f46e3b6e0b6734221fe12a8cfbb66a5",
+    "count": 501
 }

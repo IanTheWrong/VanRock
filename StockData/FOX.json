@@ -1,9 +1,19 @@
 {
     "ticker": "FOX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 718659,
+            "vw": 36.3627,
+            "o": 36.77,
+            "c": 36.25,
+            "h": 36.77,
+            "l": 36.17,
+            "t": 1723435200000,
+            "n": 10492
+        },
         {
             "v": 1001781.0,
             "vw": 36.6779,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c758fcd8610d56d412a7561b7ffe076f",
-    "count": 500
+    "request_id": "5eccc0fb62a68f3bbac825c7a925108c",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "CAG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6392875.0,
+            "vw": 29.9387,
+            "o": 30.3,
+            "c": 29.83,
+            "h": 30.46,
+            "l": 29.75,
+            "t": 1723435200000,
+            "n": 46250
+        },
         {
             "v": 2101202.0,
             "vw": 30.1342,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c8fc0cd84ab5a4780b3d03a23ea43a01",
-    "count": 500
+    "request_id": "7a150a4020f3ab8ea5be62704afd700c",
+    "count": 501
 }

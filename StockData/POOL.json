@@ -1,9 +1,19 @@
 {
     "ticker": "POOL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 314219,
+            "vw": 343.8667,
+            "o": 349.21,
+            "c": 344.07,
+            "h": 349.64,
+            "l": 341.12,
+            "t": 1723435200000,
+            "n": 10579
+        },
         {
             "v": 230955,
             "vw": 349.3193,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "29b401c24b71218068350580f6bb7d2b",
-    "count": 500
+    "request_id": "63c89192d5b2fa8949b3ee092693f0ee",
+    "count": 501
 }

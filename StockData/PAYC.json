@@ -1,9 +1,19 @@
 {
     "ticker": "PAYC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 510468,
+            "vw": 154.9825,
+            "o": 158.41,
+            "c": 153.71,
+            "h": 158.77,
+            "l": 153.43,
+            "t": 1723435200000,
+            "n": 14578
+        },
         {
             "v": 461264,
             "vw": 158.1848,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7bb26ac29553bb20030b43e89d9d5553",
-    "count": 500
+    "request_id": "f8c38202c8a4756f83f41c953d5c18c7",
+    "count": 501
 }

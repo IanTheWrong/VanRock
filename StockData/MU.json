@@ -1,9 +1,19 @@
 {
     "ticker": "MU",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 18837054.0,
+            "vw": 94.7014,
+            "o": 93.1,
+            "c": 94.64,
+            "h": 96.53,
+            "l": 92.6301,
+            "t": 1723435200000,
+            "n": 174340
+        },
         {
             "v": 21542571.0,
             "vw": 93.1567,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e324ad4c3fca04a76fc06a2d36e1d3d2",
-    "count": 500
+    "request_id": "34dcc4aaa0596550415ed7c7a2e84988",
+    "count": 501
 }

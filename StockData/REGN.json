@@ -1,9 +1,19 @@
 {
     "ticker": "REGN",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 402682,
+            "vw": 1121.1269,
+            "o": 1124.61,
+            "c": 1121.09,
+            "h": 1129.9899,
+            "l": 1109.99,
+            "t": 1723435200000,
+            "n": 18935
+        },
         {
             "v": 405357,
             "vw": 1125.5687,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b9cb5917e94a0a224dda07c35506246b",
-    "count": 500
+    "request_id": "2a146667c2f5443ab14ca5c3fd0d94a2",
+    "count": 501
 }

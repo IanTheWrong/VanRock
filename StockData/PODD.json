@@ -1,9 +1,19 @@
 {
     "ticker": "PODD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 932640,
+            "vw": 188.3897,
+            "o": 183.24,
+            "c": 188.05,
+            "h": 191.66,
+            "l": 181.23,
+            "t": 1723435200000,
+            "n": 21882
+        },
         {
             "v": 2129577.0,
             "vw": 182.9535,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1efc78d5467fd91798fb10984b1c6c85",
-    "count": 500
+    "request_id": "ffb5130b3ee54f84eba524688e0b249e",
+    "count": 501
 }

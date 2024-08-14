@@ -1,9 +1,19 @@
 {
     "ticker": "KIM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2554619.0,
+            "vw": 21.7024,
+            "o": 21.82,
+            "c": 21.75,
+            "h": 21.91,
+            "l": 21.57,
+            "t": 1723435200000,
+            "n": 17476
+        },
         {
             "v": 1426590.0,
             "vw": 21.8309,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "44b17efc8420f8d2f8bd1dac7e05deca",
-    "count": 500
+    "request_id": "f06eee0e35e6698f0255b65b74b77bd1",
+    "count": 501
 }

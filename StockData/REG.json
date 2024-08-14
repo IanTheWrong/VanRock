@@ -1,9 +1,19 @@
 {
     "ticker": "REG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 631005,
+            "vw": 69.6933,
+            "o": 70.07,
+            "c": 69.76,
+            "h": 70.07,
+            "l": 69.32,
+            "t": 1723435200000,
+            "n": 11148
+        },
         {
             "v": 768835,
             "vw": 70.2417,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "32ebe0955c0f6ca9e12e84bcbcd54774",
-    "count": 500
+    "request_id": "60614863f1589a768cff3cacc106ef13",
+    "count": 501
 }

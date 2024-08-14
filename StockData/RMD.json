@@ -1,9 +1,19 @@
 {
     "ticker": "RMD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 534608,
+            "vw": 215.4664,
+            "o": 216.6,
+            "c": 214.65,
+            "h": 218.15,
+            "l": 214.56,
+            "t": 1723435200000,
+            "n": 12958
+        },
         {
             "v": 531221,
             "vw": 215.4204,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4ca5dcfb3689449b0ebde5fd7607f377",
-    "count": 500
+    "request_id": "551f83d508f08ad59b4aeabed3b77f23",
+    "count": 501
 }

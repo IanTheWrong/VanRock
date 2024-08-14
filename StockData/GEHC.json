@@ -1,9 +1,19 @@
 {
     "ticker": "GEHC",
-    "queryCount": 402,
-    "resultsCount": 402,
+    "queryCount": 403,
+    "resultsCount": 403,
     "adjusted": true,
     "results": [
+        {
+            "v": 1555610.0,
+            "vw": 82.3319,
+            "o": 83.2,
+            "c": 82.37,
+            "h": 83.2,
+            "l": 81.71,
+            "t": 1723435200000,
+            "n": 22057
+        },
         {
             "v": 1559144.0,
             "vw": 82.8523,
@@ -4026,6 +4036,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f528a0dae885e166d900e553df03fce1",
-    "count": 402
+    "request_id": "c1b03f2f76fbb4f3edb9ec52f637c28f",
+    "count": 403
 }

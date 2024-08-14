@@ -1,9 +1,19 @@
 {
     "ticker": "MOS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2806269.0,
+            "vw": 27.3681,
+            "o": 27.16,
+            "c": 27.36,
+            "h": 27.625,
+            "l": 27.06,
+            "t": 1723435200000,
+            "n": 29655
+        },
         {
             "v": 3748697.0,
             "vw": 26.9657,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d1c53f52008ce664726a566e5dd302cf",
-    "count": 500
+    "request_id": "147287268572380dff290b56b5260b36",
+    "count": 501
 }

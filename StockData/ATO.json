@@ -1,9 +1,19 @@
 {
     "ticker": "ATO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 582499,
+            "vw": 128.6157,
+            "o": 128.29,
+            "c": 128.64,
+            "h": 129.06,
+            "l": 128.02,
+            "t": 1723435200000,
+            "n": 13420
+        },
         {
             "v": 662770,
             "vw": 127.7352,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "397c6351785ebb8b4a6bb53591811904",
-    "count": 500
+    "request_id": "332293bdcac8685c6b7db0ac0893bb75",
+    "count": 501
 }

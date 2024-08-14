@@ -1,9 +1,19 @@
 {
     "ticker": "ESS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 247537,
+            "vw": 280.7068,
+            "o": 281.04,
+            "c": 281.59,
+            "h": 282.43,
+            "l": 279.22,
+            "t": 1723435200000,
+            "n": 7337
+        },
         {
             "v": 261708,
             "vw": 281.573,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3fc715891bb98ba74f75edbb0d9110fc",
-    "count": 500
+    "request_id": "97c1b18e9d5c9076938181471edc7139",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "HSIC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3968851.0,
+            "vw": 67.965,
+            "o": 68.4,
+            "c": 67.89,
+            "h": 68.98,
+            "l": 67.595,
+            "t": 1723435200000,
+            "n": 24739
+        },
         {
             "v": 2382842.0,
             "vw": 68.8729,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "862b00d2c27bdfdd7cd4432dd32c846b",
-    "count": 500
+    "request_id": "3b6bcf9e900324ee16197a84bf608a75",
+    "count": 501
 }

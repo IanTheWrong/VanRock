@@ -1,9 +1,19 @@
 {
     "ticker": "EOG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2895653.0,
+            "vw": 128.2406,
+            "o": 127.2,
+            "c": 128.77,
+            "h": 128.83,
+            "l": 126.93,
+            "t": 1723435200000,
+            "n": 45310
+        },
         {
             "v": 3023918.0,
             "vw": 126.4876,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2f5e6dce2461216f9aa42b0b1af38d39",
-    "count": 500
+    "request_id": "855ceec39ff6062a45ad9e706702d0aa",
+    "count": 501
 }

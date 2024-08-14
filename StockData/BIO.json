@@ -1,9 +1,19 @@
 {
     "ticker": "BIO",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 227549,
+            "vw": 317.554,
+            "o": 325.06,
+            "c": 318.41,
+            "h": 325.06,
+            "l": 313.16,
+            "t": 1723435200000,
+            "n": 8768
+        },
         {
             "v": 169943,
             "vw": 325.5591,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9f9d95a92fc472c2d5394b481be68531",
-    "count": 500
+    "request_id": "12bc7c93e3135bfcc55b96cb41f8b195",
+    "count": 501
 }

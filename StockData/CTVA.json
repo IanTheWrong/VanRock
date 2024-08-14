@@ -1,9 +1,19 @@
 {
     "ticker": "CTVA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1590768.0,
+            "vw": 51.3144,
+            "o": 51.53,
+            "c": 51.22,
+            "h": 51.74,
+            "l": 51.13,
+            "t": 1723435200000,
+            "n": 23579
+        },
         {
             "v": 1793200.0,
             "vw": 51.4707,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "0c60f7e3e7254d25bfe5dfa16c98509a",
-    "count": 500
+    "request_id": "96e2cbb89c5f4bc7efcbe43ff0f9e2df",
+    "count": 501
 }

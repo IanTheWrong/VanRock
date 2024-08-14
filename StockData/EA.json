@@ -1,9 +1,19 @@
 {
     "ticker": "EA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1596822.0,
+            "vw": 146.4623,
+            "o": 146.11,
+            "c": 145.91,
+            "h": 148.2,
+            "l": 145.49,
+            "t": 1723435200000,
+            "n": 31822
+        },
         {
             "v": 2503452.0,
             "vw": 146.4436,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "20562c70521d580034849ee357366157",
-    "count": 500
+    "request_id": "42bc38614c201e3c2c073080d36927bc",
+    "count": 501
 }

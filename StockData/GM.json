@@ -1,9 +1,19 @@
 {
     "ticker": "GM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 9321732.0,
+            "vw": 42.9832,
+            "o": 43.34,
+            "c": 42.99,
+            "h": 43.6,
+            "l": 42.74,
+            "t": 1723435200000,
+            "n": 87225
+        },
         {
             "v": 13918735.0,
             "vw": 43.5195,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3aab503cae9216cbaa56f278d952b83e",
-    "count": 500
+    "request_id": "1ba8620b2b2b5e09d94bb5bfd4363412",
+    "count": 501
 }

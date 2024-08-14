@@ -1,9 +1,19 @@
 {
     "ticker": "GILD",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5077824.0,
+            "vw": 72.9546,
+            "o": 73.34,
+            "c": 72.99,
+            "h": 73.49,
+            "l": 72.43,
+            "t": 1723435200000,
+            "n": 58232
+        },
         {
             "v": 9358067.0,
             "vw": 73.7079,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "64b6598721e81eb81a4d46e72c46f28a",
-    "count": 500
+    "request_id": "859a1ce096c9127c91e0806cd610565a",
+    "count": 501
 }

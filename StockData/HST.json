@@ -1,9 +1,19 @@
 {
     "ticker": "HST",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 6495683.0,
+            "vw": 16.0629,
+            "o": 16.31,
+            "c": 16.05,
+            "h": 16.335,
+            "l": 15.9826,
+            "t": 1723435200000,
+            "n": 38517
+        },
         {
             "v": 11300209.0,
             "vw": 16.3356,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "5324aaec9872cde5aab0d0b9554786c6",
-    "count": 500
+    "request_id": "370dcb7773db6478153489214f4ed4ca",
+    "count": 501
 }

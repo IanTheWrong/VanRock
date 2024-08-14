@@ -1,9 +1,19 @@
 {
     "ticker": "CZR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3676942.0,
+            "vw": 35.5952,
+            "o": 35.51,
+            "c": 35.47,
+            "h": 36.39,
+            "l": 35.29,
+            "t": 1723435200000,
+            "n": 30482
+        },
         {
             "v": 4322127.0,
             "vw": 35.5648,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2c624de365b34f36bac3305be232900e",
-    "count": 500
+    "request_id": "96d1617527215cba0c6eb503b283d481",
+    "count": 501
 }

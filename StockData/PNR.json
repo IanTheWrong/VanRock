@@ -1,9 +1,19 @@
 {
     "ticker": "PNR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 675389,
+            "vw": 83.0317,
+            "o": 84.07,
+            "c": 82.86,
+            "h": 84.475,
+            "l": 82.6426,
+            "t": 1723435200000,
+            "n": 14276
+        },
         {
             "v": 852052,
             "vw": 84.2175,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "914646a11e12e73edda62158a1c1b6c9",
-    "count": 500
+    "request_id": "1b4c9e50c11b92a5db64b4ce0d6e7152",
+    "count": 501
 }

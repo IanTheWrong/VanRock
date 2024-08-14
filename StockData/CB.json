@@ -1,9 +1,19 @@
 {
     "ticker": "CB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 931141,
+            "vw": 268.9729,
+            "o": 271,
+            "c": 268,
+            "h": 271.71,
+            "l": 267.42,
+            "t": 1723435200000,
+            "n": 23357
+        },
         {
             "v": 819136,
             "vw": 269.4548,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "234eedf03f3acdfec06f2ce8045f4a1a",
-    "count": 500
+    "request_id": "5c65c650798d6e99e7a0e201b877e43f",
+    "count": 501
 }

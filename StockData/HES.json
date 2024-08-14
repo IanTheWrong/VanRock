@@ -1,9 +1,19 @@
 {
     "ticker": "HES",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2564007.0,
+            "vw": 134.5804,
+            "o": 134.98,
+            "c": 135.01,
+            "h": 136.14,
+            "l": 133.935,
+            "t": 1723435200000,
+            "n": 34497
+        },
         {
             "v": 2249535.0,
             "vw": 133.982,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "04bce3eefa1d2b96554fedf72dbaca8c",
-    "count": 500
+    "request_id": "751d47b7c64f11b52ad2a769e92c52f0",
+    "count": 501
 }

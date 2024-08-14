@@ -1,9 +1,19 @@
 {
     "ticker": "FE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2460618.0,
+            "vw": 42.0966,
+            "o": 41.97,
+            "c": 42.2,
+            "h": 42.21,
+            "l": 41.84,
+            "t": 1723435200000,
+            "n": 25684
+        },
         {
             "v": 2749982.0,
             "vw": 41.8809,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2bfafde4fe701852ffcb96ecfab0ad31",
-    "count": 500
+    "request_id": "453f49a9f6eb8326b89d6c2c1069726e",
+    "count": 501
 }

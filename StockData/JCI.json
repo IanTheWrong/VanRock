@@ -1,9 +1,19 @@
 {
     "ticker": "JCI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5653544.0,
+            "vw": 66.7021,
+            "o": 67.47,
+            "c": 66.56,
+            "h": 67.795,
+            "l": 66.4,
+            "t": 1723435200000,
+            "n": 36484
+        },
         {
             "v": 2615412.0,
             "vw": 67.506,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "cfb4542d47b9dba046990371b5f5fa33",
-    "count": 500
+    "request_id": "66a15d536d18b579a2ee1c6ba57fb5e0",
+    "count": 501
 }

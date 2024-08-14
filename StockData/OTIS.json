@@ -1,9 +1,19 @@
 {
     "ticker": "OTIS",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1468019.0,
+            "vw": 92.6178,
+            "o": 93.44,
+            "c": 92.29,
+            "h": 93.475,
+            "l": 92.15,
+            "t": 1723435200000,
+            "n": 21738
+        },
         {
             "v": 1513662.0,
             "vw": 92.9814,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "56f1ccf4763f1424e801ff61eac0c8c1",
-    "count": 500
+    "request_id": "da030dcd771a89c623b6d7a0c66aad60",
+    "count": 501
 }

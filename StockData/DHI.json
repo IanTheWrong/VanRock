@@ -1,9 +1,19 @@
 {
     "ticker": "DHI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2021229.0,
+            "vw": 172.3977,
+            "o": 172.44,
+            "c": 172.07,
+            "h": 173.885,
+            "l": 170.468,
+            "t": 1723435200000,
+            "n": 28545
+        },
         {
             "v": 2820894.0,
             "vw": 173.6334,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9d89a8e95e49141e3d1820e3c8ef2cdb",
-    "count": 500
+    "request_id": "81ffc6b488da709a7e9c101bfc3cab84",
+    "count": 501
 }

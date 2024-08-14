@@ -1,9 +1,19 @@
 {
     "ticker": "GOOGL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 14885852.0,
+            "vw": 162.9043,
+            "o": 164.35,
+            "c": 162.29,
+            "h": 164.9,
+            "l": 161.84,
+            "t": 1723435200000,
+            "n": 271708
+        },
         {
             "v": 28232905.0,
             "vw": 161.2948,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ffafa411db1d3472f65ee13ecce3372c",
-    "count": 500
+    "request_id": "e39c510e722e25543aec302c7e8ad016",
+    "count": 501
 }

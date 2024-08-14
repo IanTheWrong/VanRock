@@ -1,9 +1,19 @@
 {
     "ticker": "BALL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1709564.0,
+            "vw": 62.1486,
+            "o": 62.29,
+            "c": 62.05,
+            "h": 62.72,
+            "l": 61.84,
+            "t": 1723435200000,
+            "n": 26040
+        },
         {
             "v": 1581494.0,
             "vw": 62.4607,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "24a27970b1c0a685f88c6852880022db",
-    "count": 500
+    "request_id": "cf463707305da2bd96f89e8bd0688687",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PNC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1707995.0,
+            "vw": 168.1636,
+            "o": 170.63,
+            "c": 167.02,
+            "h": 171.94,
+            "l": 166.8,
+            "t": 1723435200000,
+            "n": 25287
+        },
         {
             "v": 692011,
             "vw": 169.9219,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "44d8321700a4107b3bde7ec240503606",
-    "count": 500
+    "request_id": "cbf5986528b98e26dc44c53b1882be6b",
+    "count": 501
 }

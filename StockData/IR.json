@@ -1,9 +1,19 @@
 {
     "ticker": "IR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1930775.0,
+            "vw": 88.4892,
+            "o": 89.69,
+            "c": 88.26,
+            "h": 89.96,
+            "l": 87.96,
+            "t": 1723435200000,
+            "n": 27711
+        },
         {
             "v": 2541148.0,
             "vw": 89.2982,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3bff3eee5b478ca37ff4713c9ea2d962",
-    "count": 500
+    "request_id": "341f0eb5320a3b5e24068c3a45a98a77",
+    "count": 501
 }

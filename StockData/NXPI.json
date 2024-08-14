@@ -1,9 +1,19 @@
 {
     "ticker": "NXPI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2050534.0,
+            "vw": 239.9281,
+            "o": 242.7,
+            "c": 240.16,
+            "h": 243.12,
+            "l": 237.025,
+            "t": 1723435200000,
+            "n": 32830
+        },
         {
             "v": 1071601.0,
             "vw": 241.6981,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "76c9eceb72f45a3494fc1653b02c1609",
-    "count": 500
+    "request_id": "878a75084c648171a32cc4c3ebbd726f",
+    "count": 501
 }

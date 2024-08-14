@@ -1,9 +1,19 @@
 {
     "ticker": "HAL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4970495.0,
+            "vw": 31.4163,
+            "o": 31.24,
+            "c": 31.38,
+            "h": 31.685,
+            "l": 31.18,
+            "t": 1723435200000,
+            "n": 45912
+        },
         {
             "v": 4716331.0,
             "vw": 31.1391,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f428725d83426d08d3e0d1ab554ca9f0",
-    "count": 500
+    "request_id": "a5b1e7d4a0e49b6eda73fa79b0480615",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "DTE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 622963,
+            "vw": 120.2729,
+            "o": 119.62,
+            "c": 120.6,
+            "h": 120.65,
+            "l": 119.38,
+            "t": 1723435200000,
+            "n": 12314
+        },
         {
             "v": 613308,
             "vw": 119.718,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f1e45851408b01feb5b563c7acf13cc9",
-    "count": 500
+    "request_id": "8068ddcc47798b66937a3ba1572177c4",
+    "count": 501
 }

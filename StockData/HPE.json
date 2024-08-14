@@ -1,9 +1,19 @@
 {
     "ticker": "HPE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 13504047.0,
+            "vw": 17.1977,
+            "o": 17.39,
+            "c": 17.19,
+            "h": 17.4194,
+            "l": 17.06,
+            "t": 1723435200000,
+            "n": 72370
+        },
         {
             "v": 7217098.0,
             "vw": 17.2993,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ce9b6e4cb6779ee6045323cbcea82bf7",
-    "count": 500
+    "request_id": "d470184494451e170e34c52740b29450",
+    "count": 501
 }

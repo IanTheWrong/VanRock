@@ -1,9 +1,19 @@
 {
     "ticker": "GEV",
-    "queryCount": 91,
-    "resultsCount": 91,
+    "queryCount": 92,
+    "resultsCount": 92,
     "adjusted": true,
     "results": [
+        {
+            "v": 1793618.0,
+            "vw": 177.4194,
+            "o": 178.49,
+            "c": 176.44,
+            "h": 180.5,
+            "l": 174.39,
+            "t": 1723435200000,
+            "n": 29561
+        },
         {
             "v": 2588753.0,
             "vw": 177.4295,
@@ -916,6 +926,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3dfa8242568086284509885dbf4212a8",
-    "count": 91
+    "request_id": "d3fa3fc7339ba8322fd8c94645647f1a",
+    "count": 92
 }

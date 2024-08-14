@@ -1,9 +1,19 @@
 {
     "ticker": "PAYX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1462622.0,
+            "vw": 123.6486,
+            "o": 124.4,
+            "c": 123.75,
+            "h": 124.68,
+            "l": 123.13,
+            "t": 1723435200000,
+            "n": 19919
+        },
         {
             "v": 1162057.0,
             "vw": 124.1939,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "142e7507d084f22bd73a1099ce87bae4",
-    "count": 500
+    "request_id": "7b7c267c76a1d13f075180cdd096bd68",
+    "count": 501
 }

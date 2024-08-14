@@ -1,9 +1,19 @@
 {
     "ticker": "EIX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1474712.0,
+            "vw": 82.0604,
+            "o": 82.01,
+            "c": 82.41,
+            "h": 82.44,
+            "l": 81.48,
+            "t": 1723435200000,
+            "n": 21350
+        },
         {
             "v": 2054434.0,
             "vw": 81.7366,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "5fff52767986ff8a58bcddc68798a563",
-    "count": 500
+    "request_id": "8961e5705080a53ce936be4cd4dca4b1",
+    "count": 501
 }

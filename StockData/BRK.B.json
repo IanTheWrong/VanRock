@@ -1,9 +1,19 @@
 {
     "ticker": "BRK.B",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2301180.0,
+            "vw": 430.4853,
+            "o": 434.16,
+            "c": 430.39,
+            "h": 434.16,
+            "l": 429.01,
+            "t": 1723435200000,
+            "n": 57844
+        },
         {
             "v": 2572286.0,
             "vw": 432.2427,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7b43f436f98260ba18a61b747a24b6d7",
-    "count": 500
+    "request_id": "dd3d79a4ec55f9b97a83dfda6ff787fb",
+    "count": 501
 }

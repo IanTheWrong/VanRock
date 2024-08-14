@@ -1,9 +1,19 @@
 {
     "ticker": "GLW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3988943.0,
+            "vw": 39.1729,
+            "o": 38.495,
+            "c": 39.31,
+            "h": 39.36,
+            "l": 38.495,
+            "t": 1723435200000,
+            "n": 38619
+        },
         {
             "v": 2969807.0,
             "vw": 38.4885,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "7e02a8b931b96292b0dbf38a753f6ff3",
-    "count": 500
+    "request_id": "9a07a9e01540b319eb1efb04a8ab5ffa",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "AXON",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 529440,
+            "vw": 369.5495,
+            "o": 368.1,
+            "c": 368.03,
+            "h": 375.9499,
+            "l": 366.14,
+            "t": 1723435200000,
+            "n": 18439
+        },
         {
             "v": 991544,
             "vw": 364.8826,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "59fbe23ddd4f45ab277725e6d25cb648",
-    "count": 500
+    "request_id": "07c6f78306e916e230c4c27371b6ab48",
+    "count": 501
 }

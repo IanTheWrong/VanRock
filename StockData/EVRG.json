@@ -1,9 +1,19 @@
 {
     "ticker": "EVRG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1558785.0,
+            "vw": 58.3803,
+            "o": 58.66,
+            "c": 58.52,
+            "h": 58.68,
+            "l": 58.02,
+            "t": 1723435200000,
+            "n": 20746
+        },
         {
             "v": 1872235.0,
             "vw": 58.4117,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "9860b124970d341b74c6465d4d97a58d",
-    "count": 500
+    "request_id": "3bd0cb3b2f4b7f4cb0b5d08399652287",
+    "count": 501
 }

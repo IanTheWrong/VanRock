@@ -1,9 +1,19 @@
 {
     "ticker": "PGR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2280202.0,
+            "vw": 223.0604,
+            "o": 224.79,
+            "c": 222.99,
+            "h": 225.75,
+            "l": 221.5101,
+            "t": 1723435200000,
+            "n": 34654
+        },
         {
             "v": 1606532.0,
             "vw": 220.7279,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d7a8ad9be3932b4ac0fdfd8c22b9c3aa",
-    "count": 500
+    "request_id": "4f6e8e70ef66c2c260fb10f8c8cac625",
+    "count": 501
 }

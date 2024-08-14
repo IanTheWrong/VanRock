@@ -1,9 +1,19 @@
 {
     "ticker": "CARR",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1944965.0,
+            "vw": 64.2587,
+            "o": 64.43,
+            "c": 64.29,
+            "h": 64.8,
+            "l": 63.51,
+            "t": 1723435200000,
+            "n": 30425
+        },
         {
             "v": 2302805.0,
             "vw": 64.4717,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "14147680a59f5c780c32c776cf65d3a0",
-    "count": 500
+    "request_id": "0e1aea8b56c8f552a99968a1ab0b7582",
+    "count": 501
 }

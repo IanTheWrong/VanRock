@@ -1,9 +1,19 @@
 {
     "ticker": "PPG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1297062.0,
+            "vw": 118.6035,
+            "o": 118.54,
+            "c": 118.4,
+            "h": 119.26,
+            "l": 118.14,
+            "t": 1723435200000,
+            "n": 21476
+        },
         {
             "v": 980114,
             "vw": 119.4095,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "8946460cb30cbed5e4cd1e872a869caf",
-    "count": 500
+    "request_id": "be6ec96a1eb8ec65d7c534c235f42d50",
+    "count": 501
 }

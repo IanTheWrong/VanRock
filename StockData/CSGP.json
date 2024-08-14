@@ -1,9 +1,19 @@
 {
     "ticker": "CSGP",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1783005.0,
+            "vw": 72.2047,
+            "o": 73.82,
+            "c": 72.03,
+            "h": 73.82,
+            "l": 71.69,
+            "t": 1723435200000,
+            "n": 23561
+        },
         {
             "v": 1373025.0,
             "vw": 73.7087,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "d234473f90699ae1aed6a2ea3af291a3",
-    "count": 500
+    "request_id": "ba428a255a74b5aa9abed7a29e538cd0",
+    "count": 501
 }

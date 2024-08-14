@@ -1,9 +1,19 @@
 {
     "ticker": "GPC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 853781,
+            "vw": 135.8556,
+            "o": 137.28,
+            "c": 135.63,
+            "h": 137.49,
+            "l": 135.31,
+            "t": 1723435200000,
+            "n": 14908
+        },
         {
             "v": 510619,
             "vw": 137.1594,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "310b123f5c7cde8aa179a0d48bfef200",
-    "count": 500
+    "request_id": "3a10de80e3e3a1aaf84e3a8bb10770b2",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ALB",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4500337.0,
+            "vw": 76.4997,
+            "o": 81.58,
+            "c": 76,
+            "h": 81.66,
+            "l": 74.82,
+            "t": 1723435200000,
+            "n": 67774
+        },
         {
             "v": 2145687.0,
             "vw": 81.3691,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3d0541f0b8184f7dbc15428127cc112d",
-    "count": 500
+    "request_id": "c4c7e49c75a4453c994f2fca4069726a",
+    "count": 501
 }

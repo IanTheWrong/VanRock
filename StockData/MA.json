@@ -1,9 +1,19 @@
 {
     "ticker": "MA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1582601.0,
+            "vw": 455.9689,
+            "o": 457.77,
+            "c": 455.69,
+            "h": 458.46,
+            "l": 453.89,
+            "t": 1723435200000,
+            "n": 33988
+        },
         {
             "v": 1557757.0,
             "vw": 456.4707,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2ecbcc37587491e5166dbd0684697d64",
-    "count": 500
+    "request_id": "ea881e7876ee5f8cdecf4b947ed2a028",
+    "count": 501
 }

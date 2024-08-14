@@ -1,9 +1,19 @@
 {
     "ticker": "NEE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5756355.0,
+            "vw": 77.3186,
+            "o": 77.33,
+            "c": 77.58,
+            "h": 77.61,
+            "l": 76.8925,
+            "t": 1723435200000,
+            "n": 70600
+        },
         {
             "v": 4847853.0,
             "vw": 77.3699,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "ba24ada2d71a98efe97c9516f5568779",
-    "count": 500
+    "request_id": "5e57f8db66f5ca2dd8c6f9216dbdd36c",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "ROL",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 857690,
+            "vw": 47.8204,
+            "o": 47.7,
+            "c": 47.78,
+            "h": 48.27,
+            "l": 47.59,
+            "t": 1723435200000,
+            "n": 12929
+        },
         {
             "v": 1289599.0,
             "vw": 47.7142,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "232fb82feaba00cc7e112878da8158f2",
-    "count": 500
+    "request_id": "e7ff4e24e77bcb819747cb4b86b9e6f6",
+    "count": 501
 }

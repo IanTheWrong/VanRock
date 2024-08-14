@@ -1,9 +1,19 @@
 {
     "ticker": "DOW",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2471698.0,
+            "vw": 52.3626,
+            "o": 52.77,
+            "c": 52.22,
+            "h": 52.95,
+            "l": 52.115,
+            "t": 1723435200000,
+            "n": 30156
+        },
         {
             "v": 2548966.0,
             "vw": 52.5996,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "622ffeb1e461b358d717a29fb6d268df",
-    "count": 500
+    "request_id": "cc0ed4fdddf06adc7755134cc456a496",
+    "count": 501
 }

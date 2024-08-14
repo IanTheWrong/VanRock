@@ -1,9 +1,19 @@
 {
     "ticker": "ETSY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3281854.0,
+            "vw": 53.5844,
+            "o": 55.07,
+            "c": 53.19,
+            "h": 55.28,
+            "l": 52.97,
+            "t": 1723435200000,
+            "n": 44291
+        },
         {
             "v": 2810021.0,
             "vw": 55.0236,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "2a9f9f13944203ff954a61de320a7a24",
-    "count": 500
+    "request_id": "b40b444194383bd612112c3c53001f82",
+    "count": 501
 }

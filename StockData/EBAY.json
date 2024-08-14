@@ -1,9 +1,19 @@
 {
     "ticker": "EBAY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4179939.0,
+            "vw": 56.0045,
+            "o": 56.75,
+            "c": 55.81,
+            "h": 57.18,
+            "l": 55.5,
+            "t": 1723435200000,
+            "n": 49984
+        },
         {
             "v": 2935885.0,
             "vw": 56.4634,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "87c6c1af4202c198be2a4115acc9236b",
-    "count": 500
+    "request_id": "353af138c9d65409f881dd44f2681a83",
+    "count": 501
 }

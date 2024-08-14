@@ -1,9 +1,19 @@
 {
     "ticker": "RF",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8945950.0,
+            "vw": 20.7607,
+            "o": 20.96,
+            "c": 20.75,
+            "h": 21.245,
+            "l": 20.52,
+            "t": 1723435200000,
+            "n": 47522
+        },
         {
             "v": 6073816.0,
             "vw": 20.7754,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f7477c6c08ebfd52eb6efc1206c17f18",
-    "count": 500
+    "request_id": "a77dc257f9fe76d77ce88a5681973113",
+    "count": 501
 }

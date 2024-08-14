@@ -1,9 +1,19 @@
 {
     "ticker": "IQV",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 736342,
+            "vw": 231.8262,
+            "o": 235.82,
+            "c": 231.46,
+            "h": 236.79,
+            "l": 230.81,
+            "t": 1723435200000,
+            "n": 16996
+        },
         {
             "v": 509796,
             "vw": 236.8436,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "e7c53056fc2ca7ae0520fee25ba10b52",
-    "count": 500
+    "request_id": "747032bfd4fb19abc59dc84279e5aeb5",
+    "count": 501
 }

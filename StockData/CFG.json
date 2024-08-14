@@ -1,9 +1,19 @@
 {
     "ticker": "CFG",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 5340697.0,
+            "vw": 39.9232,
+            "o": 39.9,
+            "c": 39.5,
+            "h": 40.84,
+            "l": 39.37,
+            "t": 1723435200000,
+            "n": 55186
+        },
         {
             "v": 3212422.0,
             "vw": 39.6302,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "663ac95262dad6d3bffad23e2176736d",
-    "count": 500
+    "request_id": "c9507a90d9944e69071ed75fe664730b",
+    "count": 501
 }

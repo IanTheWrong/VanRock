@@ -1,9 +1,19 @@
 {
     "ticker": "MPC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2945964.0,
+            "vw": 176.233,
+            "o": 177.1,
+            "c": 176.38,
+            "h": 178.36,
+            "l": 175.14,
+            "t": 1723435200000,
+            "n": 39545
+        },
         {
             "v": 2251133.0,
             "vw": 175.4788,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "8f2b95fead33d774c1dde503f3dbb81e",
-    "count": 500
+    "request_id": "668dee77c15fbe0cd25b1c613353dcd2",
+    "count": 501
 }

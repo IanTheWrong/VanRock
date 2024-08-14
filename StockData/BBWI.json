@@ -1,9 +1,19 @@
 {
     "ticker": "BBWI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2870444.0,
+            "vw": 31.308,
+            "o": 31.41,
+            "c": 31.32,
+            "h": 31.59,
+            "l": 31,
+            "t": 1723435200000,
+            "n": 32192
+        },
         {
             "v": 2278325.0,
             "vw": 31.4549,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "56c71ed604db742ff6cc2a52ee9bafcc",
-    "count": 500
+    "request_id": "d0462b0a7e00bda2dc04106d4a15e44d",
+    "count": 501
 }

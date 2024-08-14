@@ -1,9 +1,19 @@
 {
     "ticker": "CME",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1002701.0,
+            "vw": 206.7875,
+            "o": 206.66,
+            "c": 206.59,
+            "h": 208.08,
+            "l": 205.18,
+            "t": 1723435200000,
+            "n": 20663
+        },
         {
             "v": 991643,
             "vw": 206.1974,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "b0ae256593f3ef8e1f0184e31d6cff60",
-    "count": 500
+    "request_id": "b742fe5172c6e0bdeff98de5f608ff94",
+    "count": 501
 }

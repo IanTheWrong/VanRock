@@ -1,9 +1,19 @@
 {
     "ticker": "ANET",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 906316,
+            "vw": 338.6036,
+            "o": 337,
+            "c": 338.33,
+            "h": 343.12,
+            "l": 335.38,
+            "t": 1723435200000,
+            "n": 27191
+        },
         {
             "v": 1581103.0,
             "vw": 336.2798,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "41d76d665c59a2fe0730a4404c057a75",
-    "count": 500
+    "request_id": "199e89b4a8e1c8e737ecabfda2d16c04",
+    "count": 501
 }

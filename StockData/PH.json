@@ -1,9 +1,19 @@
 {
     "ticker": "PH",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 587237,
+            "vw": 568.3444,
+            "o": 569.96,
+            "c": 567.78,
+            "h": 573.645,
+            "l": 563.6,
+            "t": 1723435200000,
+            "n": 20884
+        },
         {
             "v": 911557,
             "vw": 569.2414,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "94c803699aa8296d87d86c135a43fe11",
-    "count": 500
+    "request_id": "693c85002737c94b8592b64f53c6b7e0",
+    "count": 501
 }

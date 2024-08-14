@@ -1,9 +1,19 @@
 {
     "ticker": "BBY",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 2463563.0,
+            "vw": 81.8526,
+            "o": 82.8,
+            "c": 81.2,
+            "h": 83.25,
+            "l": 81.06,
+            "t": 1723435200000,
+            "n": 38949
+        },
         {
             "v": 1661763.0,
             "vw": 83.4098,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "aa9d276583963b12118ce52b19f00b9c",
-    "count": 500
+    "request_id": "acb660a385dc3e3309bdffe861867de1",
+    "count": 501
 }

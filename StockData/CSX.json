@@ -1,9 +1,19 @@
 {
     "ticker": "CSX",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 8640932.0,
+            "vw": 33.5485,
+            "o": 34.04,
+            "c": 33.5,
+            "h": 34.12,
+            "l": 33.39,
+            "t": 1723435200000,
+            "n": 53560
+        },
         {
             "v": 7662473.0,
             "vw": 34.0098,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "4d2293dec8ff98f2df95836b4dbb3694",
-    "count": 500
+    "request_id": "9f5de5faa438c5a25edc6550d4dbd8dd",
+    "count": 501
 }

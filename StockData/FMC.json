@@ -1,9 +1,19 @@
 {
     "ticker": "FMC",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1100081.0,
+            "vw": 59.9253,
+            "o": 61.17,
+            "c": 59.65,
+            "h": 61.57,
+            "l": 59.31,
+            "t": 1723435200000,
+            "n": 16759
+        },
         {
             "v": 1019725.0,
             "vw": 61.0087,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "3ef52c16b973bb05a2a154ab08f8f1e3",
-    "count": 500
+    "request_id": "2dd77aac78d586e9bc65ce825c193de7",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "SPGI",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 718890,
+            "vw": 485.187,
+            "o": 488.43,
+            "c": 484.47,
+            "h": 489.99,
+            "l": 483.48,
+            "t": 1723435200000,
+            "n": 21999
+        },
         {
             "v": 597101,
             "vw": 488.2951,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "c1befb47d119659342f434e4ed93dbec",
-    "count": 500
+    "request_id": "a20547c4b7c4a3ee7e28fde554964343",
+    "count": 501
 }

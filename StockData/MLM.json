@@ -1,9 +1,19 @@
 {
     "ticker": "MLM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 509999,
+            "vw": 525.5829,
+            "o": 532.5,
+            "c": 525.11,
+            "h": 533.7625,
+            "l": 521.99,
+            "t": 1723435200000,
+            "n": 14319
+        },
         {
             "v": 651912,
             "vw": 533.578,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "6bff1acc7cbe19393b07ff5218479561",
-    "count": 500
+    "request_id": "2c4c159f4c2ebca9399ef80e560d7ba4",
+    "count": 501
 }

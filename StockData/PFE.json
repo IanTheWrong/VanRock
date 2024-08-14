@@ -1,9 +1,19 @@
 {
     "ticker": "PFE",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 20928803.0,
+            "vw": 28.4768,
+            "o": 28.58,
+            "c": 28.45,
+            "h": 28.61,
+            "l": 28.32,
+            "t": 1723435200000,
+            "n": 127009
+        },
         {
             "v": 25562348.0,
             "vw": 28.5648,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1b35f451b6f22bc34a9dd12e387567ba",
-    "count": 500
+    "request_id": "057340649d702cb5d2e34b2ce8bfa12f",
+    "count": 501
 }

@@ -1,9 +1,19 @@
 {
     "ticker": "PM",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 4756013.0,
+            "vw": 116.1889,
+            "o": 116.1,
+            "c": 116.09,
+            "h": 116.77,
+            "l": 115.72,
+            "t": 1723435200000,
+            "n": 58958
+        },
         {
             "v": 3747014.0,
             "vw": 116.0063,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "520e58ea386b0d1376f89d351bc8bfbb",
-    "count": 500
+    "request_id": "2f45f994801bd0475e2fc91008a2de76",
+    "count": 501
 }

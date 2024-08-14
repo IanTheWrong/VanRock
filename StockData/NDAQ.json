@@ -1,9 +1,19 @@
 {
     "ticker": "NDAQ",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 1645255.0,
+            "vw": 68.0205,
+            "o": 68.09,
+            "c": 67.98,
+            "h": 68.41,
+            "l": 67.615,
+            "t": 1723435200000,
+            "n": 26038
+        },
         {
             "v": 1641184.0,
             "vw": 67.9639,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "1b8ed67f7423763f1953f91eda335e63",
-    "count": 500
+    "request_id": "e44d86fba6327c938361e533c6701b52",
+    "count": 501
 }

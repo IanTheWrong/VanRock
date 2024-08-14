@@ -1,9 +1,19 @@
 {
     "ticker": "BWA",
-    "queryCount": 500,
-    "resultsCount": 500,
+    "queryCount": 501,
+    "resultsCount": 501,
     "adjusted": true,
     "results": [
+        {
+            "v": 3432603.0,
+            "vw": 31.3389,
+            "o": 31.86,
+            "c": 31.19,
+            "h": 31.985,
+            "l": 31.125,
+            "t": 1723435200000,
+            "n": 30288
+        },
         {
             "v": 2886227.0,
             "vw": 31.8106,
@@ -5006,6 +5016,6 @@
         }
     ],
     "status": "DELAYED",
-    "request_id": "f0e2e1080eec3d183bfe84c4787bea6d",
-    "count": 500
+    "request_id": "9dd50e41fa77b419288061941d6b93a3",
+    "count": 501
 }
