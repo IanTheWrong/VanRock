@@ -4,9 +4,8 @@ import time
 import logging
 from data import data
 from ichimoku import ichimoku
-while True:
-    open('final.txt','w').close()
-    ichimoku.calculate()
-    data.get(900)
+open('final.txt','w').close()
+ichimoku.calculate()
+data.get(900)
 
 
